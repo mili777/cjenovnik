@@ -1,0 +1,9 @@
+{
+    "short_name": "Cjenovnik",
+    "name": "Cjenovnik",
+    "start_url": ".",
+    "display": "fullscreen",
+    "theme_color": "#000000",
+    "orientation": "portrait",
+    "background_color": "#ffffff"
+}

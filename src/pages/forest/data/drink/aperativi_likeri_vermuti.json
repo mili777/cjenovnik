@@ -1,0 +1,61 @@
+[{
+        "naziv": "Gorki list",
+        "kolicina": "0,03l",
+        "cijena": "1,60",
+        "opis": ""
+    },
+    {
+        "naziv": "Amaro montenegro",
+        "kolicina": "0,03l",
+        "cijena": "1,90",
+        "opis": ""
+    },
+    {
+        "naziv": "Jagermaister",
+        "kolicina": "0,03l",
+        "cijena": "1,90",
+        "opis": ""
+    },
+    {
+        "naziv": "Baileys",
+        "kolicina": "0,03l",
+        "cijena": "1,90",
+        "opis": ""
+    },
+    {
+        "naziv": "Carolans",
+        "kolicina": "0,03l",
+        "cijena": "1,90",
+        "opis": ""
+    },
+    {
+        "naziv": "Campari",
+        "kolicina": "0,03l",
+        "cijena": "1,90",
+        "opis": ""
+    },
+    {
+        "naziv": "Martini Bianco",
+        "kolicina": "0,03l",
+        "cijena": "2,20",
+        "opis": ""
+    },
+    {
+        "naziv": "Martini rosso",
+        "kolicina": "0,03l",
+        "cijena": "2,20",
+        "opis": ""
+    },
+    {
+        "naziv": "Cinzano Bianco",
+        "kolicina": "0,03l",
+        "cijena": "2,20",
+        "opis": ""
+    },
+    {
+        "naziv": "Cinzano rosso",
+        "kolicina": "0,03l",
+        "cijena": "2,20",
+        "opis": ""
+    }
+]

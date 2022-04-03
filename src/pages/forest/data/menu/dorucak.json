@@ -1,0 +1,91 @@
+[{
+        "naziv": "Forest doručak",
+        "kolicina": "350g",
+        "cijena": "4,30",
+        "opis": "/3 jaja, pančeta, pršuta, kajmak, domaći sir, pomfrit/"
+    },
+    {
+        "naziv": "Engleski doručak",
+        "kolicina": "300g",
+        "cijena": "3,90",
+        "opis": "/2 jaja, viršle, slanina, domaći sir, senf, paradajz, pomfrit/"
+    },
+    {
+        "naziv": "Montenegro doručak",
+        "kolicina": " 350g",
+        "cijena": "3,90",
+        "opis": "/2 jaja, roštiljska kobasica, pršuta, sir, paradajz, senf, pomfrit/"
+    },
+    {
+        "naziv": "Fritata",
+        "kolicina": "350g",
+        "cijena": "3,20",
+        "opis": "/3 jaja, spanać, neutralna pavlaka, feta sir, paradajz šeri/"
+    },
+    {
+        "naziv": "Kajgana",
+        "kolicina": "300g",
+        "cijena": "3,20",
+        "opis": "/3 jaja, pančeta, praziluk/"
+    },
+    {
+        "naziv": "Kajgana sa spanaćem",
+        "kolicina": "300g",
+        "cijena": "4,20",
+        "opis": "/3 jaja, spanać, piletina, sir/"
+    },
+    {
+        "naziv": "Šak-Šuka",
+        "kolicina": "400g",
+        "cijena": "3,90",
+        "opis": "/2 jaja, paprika, pančeta, feta sir, paradajz šeri, neutralna pavlaka/"
+    },
+    {
+        "naziv": "Jaja na kajmaku",
+        "kolicina": "300g",
+        "cijena": "3,60",
+        "opis": "/4 jaja, kajmak, pančeta/"
+    },
+    {
+        "naziv": "Omlet sa šunkom",
+        "kolicina": "300g",
+        "cijena": "2,80",
+        "opis": "/3 jaja, šunka, sir/"
+    },
+    {
+        "naziv": "Omlet sa pršutom",
+        "kolicina": "300g",
+        "cijena": "3,20",
+        "opis": "/3 jaja, pršuta, sir/"
+    },
+    {
+        "naziv": "Omlet sa povrćem",
+        "kolicina": "300g",
+        "cijena": "3,20",
+        "opis": "/3 jaja, mix povrća,sir/"
+    },
+    {
+        "naziv": "Omlet sa chia sjemenkama i povrćem",
+        "kolicina": "300g",
+        "cijena": "3,50",
+        "opis": "/3 jaja,chia sjemenke, sir, mix povrća/"
+    },
+    {
+        "naziv": "Bijeli omlet sa povrćem",
+        "kolicina": "300g",
+        "cijena": "3,20",
+        "opis": "/4 bjelanca, mix povrća, sir/"
+    },
+    {
+        "naziv": "Priganice sa prilogom po želji",
+        "kolicina": "300g",
+        "cijena": "2,20",
+        "opis": "/brašno, ulje, kvasac/"
+    },
+    {
+        "naziv": "Domaće kisjelo mlijeko",
+        "kolicina": "0,25l",
+        "cijena": "0,80",
+        "opis": "/mlijeko/"
+    }
+]

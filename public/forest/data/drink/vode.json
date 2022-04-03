@@ -1,0 +1,35 @@
+{
+    "vode": [{
+            "voda": "Gazirana",
+            "vrste": [{
+                    "naziv": "Rosa",
+                    "kolicina": "0,33l/0,75l",
+                    "cijena": "1,10/2,40",
+                    "opis": ""
+                },
+                {
+                    "naziv": "Aqua pana",
+                    "kolicina": "0,25l",
+                    "cijena": "1,50",
+                    "opis": ""
+                }
+            ]
+        },
+        {
+            "voda": "Negazirana",
+            "vrste": [{
+                    "naziv": "Vrnjci voda",
+                    "kolicina": "0,25l/1l",
+                    "cijena": "1,10/2,40",
+                    "opis": ""
+                },
+                {
+                    "naziv": "San Pellegrino",
+                    "kolicina": "0,25l",
+                    "cijena": "1,50",
+                    "opis": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+[
+
+    {
+        "naziv": "Espresso",
+        "kolicina": "0,03l",
+        "cijena": "0,90",
+        "opis": ""
+    },
+    {
+        "naziv": "Espresso sa mlijekom",
+        "kolicina": "0,05l",
+        "cijena": "1,00",
+        "opis": ""
+    },
+    {
+        "naziv": "Produženi espresso sa mlijekom",
+        "kolicina": "0,20l",
+        "cijena": "1,20",
+        "opis": ""
+    },
+    {
+        "naziv": "Cappuccino",
+        "kolicina": "0,20l",
+        "cijena": "1,40",
+        "opis": ""
+    },
+    {
+        "naziv": "Kafa sa šlagom",
+        "kolicina": "0,20l",
+        "cijena": "1,40",
+        "opis": ""
+    },
+    {
+        "naziv": "Kuvana kafa/Coffe",
+        "kolicina": "0,20l",
+        "cijena": "0,80",
+        "opis": ""
+    },
+    {
+        "naziv": "Ness kafa",
+        "kolicina": "0,25l",
+        "cijena": "1,50 ",
+        "opis": ""
+    },
+    {
+        "naziv": "Ness kafa sa šlagom",
+        "kolicina": "0,25l",
+        "cijena": "1,70",
+        "opis": ""
+    },
+    {
+        "naziv": "Topla čokolada",
+        "kolicina": "0,25l",
+        "cijena": "1,60",
+        "opis": ""
+    },
+    {
+        "naziv": "Topla čokolada sa šlagom",
+        "kolicina": "0,25l",
+        "cijena": "1,80",
+        "opis": ""
+    },
+    {
+        "naziv": "Čokoladno mlijeko",
+        "kolicina": "0,25l",
+        "cijena": "1,30",
+        "opis": ""
+    },
+    {
+        "naziv": "Čaj /med,limun/",
+        "kolicina": "0,30l",
+        "cijena": "1,20",
+        "opis": ""
+    },
+    {
+        "naziv": "Kuvano vino",
+        "kolicina": "0,25l",
+        "cijena": "1,70",
+        "opis": ""
+    },
+    {
+        "naziv": "Kuvano vino sa ukusom",
+        "kolicina": "0,25l",
+        "cijena": "1,90",
+        "opis": ""
+    }
+]

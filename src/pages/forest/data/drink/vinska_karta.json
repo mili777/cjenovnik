@@ -1,0 +1,156 @@
+{
+    "vina": [{
+            "vino": "Bijela vina klasik",
+            "vrste": [{
+                    "naziv": "Crnogorski CHARDONNAY",
+                    "kolicina": "0,75l",
+                    "cijena": "12,00",
+                    "opis": "/chardonnay/"
+                },
+                {
+                    "naziv": "Crnogorski CHARDONNAY",
+                    "kolicina": "0,187l",
+                    "cijena": "3,50",
+                    "opis": "/chardonnay/"
+                }
+            ]
+        },
+        {
+            "vino": "Premium bijela vina",
+            "vrste": [{
+                    "naziv": "PRO ANIMA-Chardonnay Sauvignon blanc",
+                    "kolicina": "0,75l",
+                    "cijena": "20,00",
+                    "opis": "/chardonnay, sauvignon blanc/"
+                },
+                {
+                    "naziv": "LUČA",
+                    "kolicina": "0,75l",
+                    "cijena": "25,00",
+                    "opis": "/chardonnay, pinot blanc, sauvignon blanc/"
+                },
+                {
+                    "naziv": "MALVAZIJA",
+                    "kolicina": "0,75l",
+                    "cijena": "25,00",
+                    "opis": "/malvazija/"
+                },
+                {
+                    "naziv": "MALVAZIJA",
+                    "kolicina": "0,187l",
+                    "cijena": "3,90",
+                    "opis": "/malvazija/"
+                }
+            ]
+        },
+        {
+            "vino": "Crvena vina klasik",
+            "vrste": [{
+                    "naziv": "Crnogorski VRANAC",
+                    "kolicina": "0,75l",
+                    "cijena": "12,00",
+                    "opis": "/vranac/"
+                },
+                {
+                    "naziv": "Crnogorski VRANAC",
+                    "kolicina": "0,187l",
+                    "cijena": "3,20",
+                    "opis": "/vranac/"
+                },
+                {
+                    "naziv": "Crnogorski MERLOT",
+                    "kolicina": "0,75l",
+                    "cijena": "10,00",
+                    "opis": "/merlot/"
+                }
+            ]
+        },
+        {
+            "vino": "Premium crvena vina",
+            "vrste": [{
+                    "naziv": "VRANAC PRO CORDE",
+                    "kolicina": "0,75l",
+                    "cijena": "15,00",
+                    "opis": "/vranac/"
+                },
+                {
+                    "naziv": "VRANAC PRO CORDE",
+                    "kolicina": "0,187l",
+                    "cijena": "3,90",
+                    "opis": "/vranac/"
+                },
+                {
+                    "naziv": "VLADIKA",
+                    "kolicina": "0,75l",
+                    "cijena": "25,00",
+                    "opis": "/vranac, cabernet sauvignon, merlot/"
+                }
+            ]
+        },
+        {
+            "vino": "Ultra premium crvena vina",
+            "vrste": [{
+                "naziv": "VRANAC RESERVE",
+                "kolicina": "0,75l",
+                "cijena": "50,00",
+                "opis": "/vranac/"
+            }]
+        },
+        {
+            "vino": "Rose vina",
+            "vrste": [{
+                    "naziv": "Crnogorski ROSE",
+                    "kolicina": "0,75l",
+                    "cijena": "12,00",
+                    "opis": "/vranac, grenache/"
+                },
+                {
+                    "naziv": "Crnogorski ROSE",
+                    "kolicina": "0,187l",
+                    "cijena": "3,50",
+                    "opis": "/vranac, grenache/"
+                },
+                {
+                    "naziv": "REGINA Jelena Savojska",
+                    "kolicina": "0,75l",
+                    "cijena": "25,00",
+                    "opis": ""
+                }
+            ]
+        },
+        {
+            "vino": "Pjenušava vina",
+            "vrste": [{
+                    "naziv": "Moet&Chandon Brut",
+                    "kolicina": "0,75l",
+                    "cijena": "90,00",
+                    "opis": ""
+                },
+                {
+                    "naziv": "Martini prosecco",
+                    "kolicina": "0,75l",
+                    "cijena": "20,00",
+                    "opis": ""
+                },
+                {
+                    "naziv": "Cinzano Prosecco",
+                    "kolicina": "0,75l",
+                    "cijena": "20,00",
+                    "opis": ""
+                },
+                {
+                    "naziv": "Dei Poeti Prosecco Botega",
+                    "kolicina": "0,75l",
+                    "cijena": "25,00",
+                    "opis": ""
+                },
+                {
+                    "naziv": "Dei Poeti Prosecco Botega",
+                    "kolicina": "0,20l",
+                    "cijena": "5,50",
+                    "opis": ""
+                }
+            ]
+        }
+    ]
+}

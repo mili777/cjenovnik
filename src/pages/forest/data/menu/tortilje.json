@@ -1,0 +1,25 @@
+[{
+        "naziv": "Tortilja sa piletinom",
+        "kolicina": "300g",
+        "cijena": "3,90",
+        "opis": "/tortilja, piletina, sir, paprika, pomfrit, pavlaka, kečap/"
+    },
+    {
+        "naziv": "Tortilja sa piletinom u kari sosu",
+        "kolicina": "300g",
+        "cijena": "3,90",
+        "opis": "/tortilje, piletina, sir, kari, pomfrit, kečap, pavlaka/"
+    },
+    {
+        "naziv": "Tortilja Mexicana",
+        "kolicina": "300g",
+        "cijena": "3,90",
+        "opis": "/tortilja, piletina, sir, paprika, pasulj, kukuruz, crni luk, bijeli luk, čili, pelat/"
+    },
+    {
+        "naziv": "Tortilja sa biftekom",
+        "kolicina": "300g",
+        "cijena": "4,50",
+        "opis": "/tortilja, biftek, garlic sos, mrkva, kupus, pomfrit/"
+    }
+]

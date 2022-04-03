@@ -1,0 +1,64 @@
+{
+    "piva": [{
+            "pivo": "Točena",
+            "vrste": [{
+                    "naziv": "Stella",
+                    "kolicina": "0,25",
+                    "cijena": "1,50",
+                    "opis": ""
+                },
+                {
+                    "naziv": "Stella",
+                    "kolicina": "0,5l",
+                    "cijena": "2,70",
+                    "opis": ""
+                }
+            ]
+        },
+        {
+            "pivo": "Flaširana",
+            "vrste": [{
+                    "naziv": "Nikšićko pivo",
+                    "kolicina": "0,33l",
+                    "cijena": "2,10",
+                    "opis": ""
+                },
+                {
+                    "naziv": "Mammut Prime",
+                    "kolicina": "0,33l",
+                    "cijena": "2,50",
+                    "opis": ""
+                }, {
+                    "naziv": "Bavaria",
+                    "kolicina": "0,25l",
+                    "cijena": "2,10",
+                    "opis": ""
+                }, {
+                    "naziv": "Becks",
+                    "kolicina": "0,25l",
+                    "cijena": "2,10",
+                    "opis": ""
+                }, {
+                    "naziv": "Heineken",
+                    "kolicina": "0,25l",
+                    "cijena": "2,50",
+                    "opis": ""
+                }, {
+                    "naziv": "Tuborg",
+                    "kolicina": "0,33l",
+                    "cijena": "2,10",
+                    "opis": ""
+                }
+            ]
+        },
+        {
+            "pivo": "Cider",
+            "vrste": [{
+                "naziv": "Somersby",
+                "kolicina": "0,33l",
+                "cijena": "2,50",
+                "opis": "/jabuka, kruška, borovnica, lubenica/"
+            }]
+        }
+    ]
+}

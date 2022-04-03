@@ -1,0 +1,55 @@
+[{
+        "naziv": "Pomfrit",
+        "kolicina": "300g",
+        "cijena": "1,50",
+        "opis": "/pomfrit/"
+    },
+    {
+        "naziv": "Kuver",
+        "kolicina": "200g",
+        "cijena": "1,50",
+        "opis": "/brašno, masline, paradajz sos /"
+    },
+    {
+        "naziv": "Masline",
+        "kolicina": "50g",
+        "cijena": "1,20",
+        "opis": ""
+    },
+    {
+        "naziv": "Zapečeni aromatizovani hleb",
+        "kolicina": "200g",
+        "cijena": "1,50",
+        "opis": ""
+    },
+    {
+        "naziv": "Kajmak",
+        "kolicina": "50g",
+        "cijena": "0,50",
+        "opis": ""
+    },
+    {
+        "naziv": "Nutella",
+        "kolicina": "50g",
+        "cijena": "0,50",
+        "opis": ""
+    },
+    {
+        "naziv": "Euro krem",
+        "kolicina": "50g",
+        "cijena": "0,50",
+        "opis": ""
+    },
+    {
+        "naziv": "Med",
+        "kolicina": "50g",
+        "cijena": "0,50",
+        "opis": ""
+    },
+    {
+        "naziv": "Domaći džem",
+        "kolicina": "50g",
+        "cijena": "0,50",
+        "opis": ""
+    }
+]

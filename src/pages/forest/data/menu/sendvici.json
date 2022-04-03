@@ -1,0 +1,48 @@
+[{
+        "naziv": "Forest sendvič",
+        "kolicina": "400g",
+        "cijena": "4,50",
+        "opis": "/domaća čabata, juneće-teleće meso, kajmak, paprika, pomfrit/"
+    }, {
+        "naziv": "Sendvič sa grilovanom piletinom",
+        "kolicina": "400g",
+        "cijena": "3,90",
+        "opis": "/domaća čabata, piletina, sos, zelena salata, pomfrit/"
+    },
+    {
+        "naziv": "Sendvič sa pršutom i kajmakom",
+        "kolicina": "400g",
+        "cijena": "3,90",
+        "opis": "/domaća čabata, pršuta, kajmak, paprika, zelena salata, pomfrit/"
+    },
+    {
+        "naziv": "Sendvič sa biftekom u kikiriki sosu",
+        "kolicina": "400g",
+        "cijena": "4,90",
+        "opis": "/domaća čabata, biftek, sos, pomfrit/"
+    },
+    {
+        "naziv": "Sendvič sa tunjevinom",
+        "kolicina": "400g",
+        "cijena": "3,50",
+        "opis": "/domaća čabata, tunjevina, zelena salata, krastavac svježi,crveni luk, namaz, pomfrit/"
+    },
+    {
+        "naziv": "Tost sendvič klasik",
+        "kolicina": "400g",
+        "cijena": "2,90",
+        "opis": "/tost hleb, šunka, sir, kisjeli krastvac, paprika, zelena salata/"
+    },
+    {
+        "naziv": "Tost sendvič sa puterom",
+        "kolicina": "400g",
+        "cijena": "3,90",
+        "opis": "/tost hleb, jaja, pršuta, sir, maslac, pomfrit/"
+    },
+    {
+        "naziv": "Pica sendvič",
+        "kolicina": "450g",
+        "cijena": "4,50",
+        "opis": "/Šunka, sir, šampinjoni, pavlaka, pelat/"
+    }
+]

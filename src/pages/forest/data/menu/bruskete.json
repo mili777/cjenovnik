@@ -1,0 +1,25 @@
+[{
+        "naziv": "Bruskete sa pršutom i paradajzom",
+        "kolicina": "300g",
+        "cijena": "3,50",
+        "opis": "/pršuta, paradajz, masline, sir, pelat/"
+    },
+    {
+        "naziv": "Bruskete Cezar",
+        "kolicina": "300g",
+        "cijena": "3,90",
+        "opis": "/piletina, slanina, paradajz šeri, kukuruz, sir, dresing/"
+    },
+    {
+        "naziv": "Bruskete sa grilovanim povrćem",
+        "kolicina": "300g",
+        "cijena": "3,50",
+        "opis": "/kukuruz, tikvica, patlidžan, paprika, mocarela/"
+    },
+    {
+        "naziv": "Bruskete Mediterano",
+        "kolicina": "300g",
+        "cijena": "3,50",
+        "opis": "/tunjevina, tikvica, patlidžan, sir, pesto sos/"
+    }
+]

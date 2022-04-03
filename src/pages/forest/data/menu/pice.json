@@ -1,0 +1,110 @@
+[{
+        "naziv": "Pivska pica",
+        "kolicina": "25cm/300gr",
+        "cijena": "2,90",
+        "opis": "/radatz kobasice, sir, pelat/"
+    },
+    {
+        "naziv": "Pivska pica",
+        "kolicina": "33cm/500gr",
+        "cijena": "4,90",
+        "opis": "/radatz kobasice, sir, pelat/"
+    },
+    {
+        "naziv": "Capricciosa",
+        "kolicina": "25cm/300gr",
+        "cijena": "2,90",
+        "opis": "/šunka, sir, pelat, šampinjoni, origano/"
+    },
+    {
+        "naziv": "Capricciosa",
+        "kolicina": "33cm/500gr",
+        "cijena": "4,50",
+        "opis": "/šunka, sir, pelat, šampinjoni, origano/"
+    },
+    {
+        "naziv": "Prosciutto",
+        "kolicina": "25cm/300gr",
+        "cijena": "2,90",
+        "opis": "/pršuta, sir, šampinjoni, pelat, origano/"
+    },
+    {
+        "naziv": "Prosciutto",
+        "kolicina": "33cm/500gr",
+        "cijena": "4,90",
+        "opis": "/pršuta, sir, šampinjoni, pelat, origano/"
+    },
+    {
+        "naziv": "Forest pica",
+        "kolicina": "25cm/300g",
+        "cijena": "3,20",
+        "opis": "/pršuta, sir, šampinjoni, paprika, jaje/"
+    },
+    {
+        "naziv": "Forest pica",
+        "kolicina": "33cm/500gr",
+        "cijena": "5,20",
+        "opis": "/pršuta, sir, šampinjoni, paprika, jaje/"
+    },
+    {
+        "naziv": "Margarita",
+        "kolicina": "25cm/300gr",
+        "cijena": "2,50",
+        "opis": "/sir, pelat, origano/"
+    },
+    {
+        "naziv": "Margarita",
+        "kolicina": "33cm/500gr",
+        "cijena": "3,90",
+        "opis": "/sir, pelat, origano/"
+    },
+    {
+        "naziv": "Quatrrro formaggi",
+        "kolicina": "25cm/300gr",
+        "cijena": "2,90",
+        "opis": "/trapist, plavi sir, mocarela, parmesan, pelat/"
+    },
+    {
+        "naziv": "Quatrrro formaggi",
+        "kolicina": "33cm/500gr",
+        "cijena": "4,90",
+        "opis": "/trapist, plavi sir, mocarela, parmesan, pelat/"
+    },
+    {
+        "naziv": "Diavolo",
+        "kolicina": "25cm/300gr",
+        "cijena": "2,90",
+        "opis": "/kulen, sir, feferoni, šampinjoni, pelat, origano/"
+    },
+    {
+        "naziv": "Diavolo",
+        "kolicina": "33cm/500gr",
+        "cijena": "4,90",
+        "opis": "/kulen, sir, feferoni, šampinjoni, pelat, origano/"
+    },
+    {
+        "naziv": "Napolitana",
+        "kolicina": "25cm/300gr",
+        "cijena": "2,90",
+        "opis": "/tunjevina, posni sir, paprika, šeri paradajz, pelat/"
+    },
+    {
+        "naziv": "Napolitana",
+        "kolicina": "33cm/500gr",
+        "cijena": "4,90",
+        "opis": "/tunjevina, posni sir, paprika, šeri paradajz, pelat/"
+    },
+    {
+        "naziv": "Piroška",
+        "kolicina": "25cm/300gr",
+        "cijena": "2,90",
+        "opis": "/šunka, sir, kisjela pavlaka, šampinjoni, pelat/"
+    },
+    {
+        "naziv": "Piroška",
+        "kolicina": "33cm/500gr",
+        "cijena": "4,90",
+        "opis": "/šunka, sir, kisjela pavlaka, šampinjoni, pelat/"
+    }
+
+]

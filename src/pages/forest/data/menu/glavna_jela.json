@@ -1,0 +1,67 @@
+[{
+        "naziv": "Piletina Saltibocca",
+        "kolicina": "500g",
+        "cijena": "6,50",
+        "opis": "/piletina, pršuta, mocarela, neutralna pavlaka, pečena paprika, krompir pod korom/"
+    },
+    {
+        "naziv": "Piletina Toscana",
+        "kolicina": "450g",
+        "cijena": "6,50",
+        "opis": "/piletina, paprika, spanać, sir, krompir, puter sos/"
+    },
+    {
+        "naziv": "Piletina u sosu od kikirikija",
+        "kolicina": "450g",
+        "cijena": "6,20",
+        "opis": "/piletina, pršuta, sir, kikiriki puter, neutralna pavlaka, krompir/"
+    },
+    {
+        "naziv": "Dženet piletina",
+        "kolicina": "500g",
+        "cijena": "6,90",
+        "opis": "/piletina, šunka, sir, preliv od šampinjona, krompir/"
+    },
+    {
+        "naziv": "Piletina na italijanski način",
+        "kolicina": "500g",
+        "cijena": "6,50",
+        "opis": "/piletina, mocarela, gorgonzola sos, povrće/"
+    },
+    {
+        "naziv": "Pohovani pileći štapići",
+        "kolicina": "400g",
+        "cijena": "4,90",
+        "opis": "/piletina, prezla, pomfrit, tartar sos/"
+    },
+    {
+        "naziv": "Pileći rolovani ražnjići",
+        "kolicina": "550g",
+        "cijena": "5,90",
+        "opis": "/piletina, slanina, krompir pod korom/"
+    },
+    {
+        "naziv": "Piletina u gorgonzola sosu",
+        "kolicina": "500g",
+        "cijena": "6,50",
+        "opis": "/piletina, gorgonzola sir, neutralna pavlaka, krompir/"
+    },
+    {
+        "naziv": "Ćevapi od mesa",
+        "kolicina": "500g",
+        "cijena": "5,50",
+        "opis": "/juneće meso 50%, teleće meso 50%, pomfrit/"
+    },
+    {
+        "naziv": "Gurmanska pljeskavica",
+        "kolicina": "500g",
+        "cijena": "5,50",
+        "opis": "/juneće meso 50%, teleće meso 50%, pomfrit/"
+    },
+    {
+        "naziv": "Biftek",
+        "kolicina": "500g",
+        "cijena": "13,00",
+        "opis": "/biftek, mix povrća, integralni pirinač, puter sos/"
+    }
+]

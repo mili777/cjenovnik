@@ -1,0 +1,43 @@
+[{
+        "naziv": "Famous Grouse",
+        "kolicina": "0,03l",
+        "cijena": "2,10",
+        "opis": ""
+    },
+    {
+        "naziv": "Johnnie Walker Red Label",
+        "kolicina": "0,03l",
+        "cijena": "2,10",
+        "opis": ""
+    },
+    {
+        "naziv": "Johnnie walker Black label",
+        "kolicina": "0,03l",
+        "cijena": "3,40",
+        "opis": ""
+    },
+    {
+        "naziv": "Jameson",
+        "kolicina": "0,03l",
+        "cijena": "2,20",
+        "opis": ""
+    },
+    {
+        "naziv": "Ballantines",
+        "kolicina": "0,03l",
+        "cijena": "1,90",
+        "opis": ""
+    },
+    {
+        "naziv": "Dewars White Label",
+        "kolicina": "0,03l",
+        "cijena": "1,90",
+        "opis": ""
+    },
+    {
+        "naziv": "Chivas Regal",
+        "kolicina": "0,03l",
+        "cijena": "3,40",
+        "opis": ""
+    }
+]

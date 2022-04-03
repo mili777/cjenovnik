@@ -1,0 +1,19 @@
+[{
+        "naziv": "Rižoto sa piletinom u kari sosu",
+        "kolicina": "400g",
+        "cijena": "4,90",
+        "opis": "/pirinač arborio, piletina, šampinjoni, kari/"
+    },
+    {
+        "naziv": "Rižoto sa povrćem",
+        "kolicina": "400g",
+        "cijena": "4,50",
+        "opis": "/pirinač arborio, paprika, šampinjoni, kukuruz, luk, mrkva, maslac/"
+    },
+    {
+        "naziv": "Crni rižota sa gamborima",
+        "kolicina": "400g",
+        "cijena": "5,50",
+        "opis": "/pirinač arborio, gambori, crnilo sipe, maslac, limun/"
+    }
+]

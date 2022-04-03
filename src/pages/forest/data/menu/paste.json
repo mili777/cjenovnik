@@ -1,0 +1,67 @@
+[{
+        "naziv": "Bolonjeze",
+        "kolicina": "300g",
+        "cijena": "4,50",
+        "opis": "/tjestenina, mljeveno meso, pelat/"
+    },
+    {
+        "naziv": "Karbonara",
+        "kolicina": "350g",
+        "cijena": "4,90",
+        "opis": "/tjestenina, pančeta, parmezan, jaje/"
+    },
+    {
+        "naziv": "Pasta Forest",
+        "kolicina": "350g",
+        "cijena": "5,50",
+        "opis": "/tjestenina, piletina, sušeni paradajz, crveni luk, neutralna pavlaka, parmesan/"
+    },
+    {
+        "naziv": "Pasta Bisteka",
+        "kolicina": "350g",
+        "cijena": "5,90",
+        "opis": "/tjestenina ,biftek, garlic sos, mix povrća/"
+    },
+    {
+        "naziv": "Zelene taljatele sa gamborima",
+        "kolicina": "350g",
+        "cijena": "5,90",
+        "opis": "/tjestenina, gambori, tikvica, maslac/"
+    },
+    {
+        "naziv": "Taljatele Pomodoro",
+        "kolicina": "350g",
+        "cijena": "4,90",
+        "opis": "/tjestenina, šeri paradajz, tikvica, pršuta, mocarela, pelat/"
+    },
+    {
+        "naziv": "Pasta u krem sosu od spanaća",
+        "kolicina": "350g",
+        "cijena": "4,90",
+        "opis": "/tjestenina, spanać, parmesan, mascarpone/"
+    },
+    {
+        "naziv": "Pasta sa piletinom u kari sosu",
+        "kolicina": "350g",
+        "cijena": "5,50",
+        "opis": "/tjestenina, piletina, paprika, bijeli luk, neutralna pavlaka, kari/"
+    },
+    {
+        "naziv": "Pasta sa piletinom i šampinjonima",
+        "kolicina": "350g",
+        "cijena": "5,50",
+        "opis": "/tjestenina, piletina, šampinjoni, mix povrća, neutralna pavlaka/"
+    },
+    {
+        "naziv": "Pasta Primavera",
+        "kolicina": "350g",
+        "cijena": "4,90",
+        "opis": "/tjestenina, kukuruz, paprika, tikvica, šeri paradajz, pelat/"
+    },
+    {
+        "naziv": "Lazanje",
+        "kolicina": "350g",
+        "cijena": "4,90",
+        "opis": "/lazanje, mljeveno meso, bešamel sos, sir/"
+    }
+]

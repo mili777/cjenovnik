@@ -1,0 +1,37 @@
+[{
+        "naziv": "Stara Sokolova šljiva",
+        "kolicina": "5g 0,03l",
+        "cijena": "2,50",
+        "opis": ""
+    },
+    {
+        "naziv": "Stara sokolova šljiva",
+        "kolicina": "12g 0,03l",
+        "cijena": "4,20",
+        "opis": ""
+    },
+    {
+        "naziv": "Dunja Milinčić",
+        "kolicina": "0,03l",
+        "cijena": "2,20",
+        "opis": ""
+    },
+    {
+        "naziv": "Kajsija Milinčić",
+        "kolicina": "0,03l",
+        "cijena": "2,20",
+        "opis": ""
+    },
+    {
+        "naziv": "Viljamovka Takovo",
+        "kolicina": "0,03l",
+        "cijena": "1,70",
+        "opis": ""
+    },
+    {
+        "naziv": "Loza Institut",
+        "kolicina": "0,03l",
+        "cijena": "1,90",
+        "opis": ""
+    }
+]

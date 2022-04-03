@@ -1,0 +1,25 @@
+[{
+        "naziv": "Bacardi Carta Blanca (superior)",
+        "kolicina": "0,03l",
+        "cijena": "1,60",
+        "opis": ""
+    },
+    {
+        "naziv": "Bacardi Carta Negra (black)",
+        "kolicina": "0,03l",
+        "cijena": "1,70",
+        "opis": ""
+    },
+    {
+        "naziv": "Bacardi Carta Oro (gold)",
+        "kolicina": "0,03l",
+        "cijena": "1,70",
+        "opis": ""
+    },
+    {
+        "naziv": "Bacardi Reserve ocho 8 Y",
+        "kolicina": "0,03l",
+        "cijena": "3,80",
+        "opis": ""
+    }
+]

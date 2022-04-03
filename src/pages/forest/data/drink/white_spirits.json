@@ -1,0 +1,31 @@
+[{
+        "naziv": "Vodka Smirnoff",
+        "kolicina": "0,03l",
+        "cijena": "1,80",
+        "opis": ""
+    },
+    {
+        "naziv": "Grey goose Vodka Premium",
+        "kolicina": "0,03l",
+        "cijena": "4,20",
+        "opis": ""
+    },
+    {
+        "naziv": "Bombay Sapphire Gin",
+        "kolicina": "0,03l",
+        "cijena": "2,20",
+        "opis": ""
+    },
+    {
+        "naziv": "Camino Blanco Tequila",
+        "kolicina": "0,03l",
+        "cijena": "1,80",
+        "opis": ""
+    },
+    {
+        "naziv": "Camino Gold Tequila",
+        "kolicina": "0,03l",
+        "cijena": "1,80",
+        "opis": ""
+    }
+]

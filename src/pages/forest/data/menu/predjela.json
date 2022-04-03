@@ -1,0 +1,25 @@
+[{
+        "naziv": "Montenegro meza",
+        "kolicina": "500g",
+        "cijena": "7,90",
+        "opis": "/pršuta, govedina, pančeta, domaći sir, masline/"
+    },
+    {
+        "naziv": "Forest meza",
+        "kolicina": "500g",
+        "cijena": "9,00",
+        "opis": "/pršuta, govedina, kobasica, grana padano, masline/"
+    },
+    {
+        "naziv": "Mix crnogorskih sireva",
+        "kolicina": "250g",
+        "cijena": "5,50",
+        "opis": ""
+    },
+    {
+        "naziv": "Grana padano",
+        "kolicina": "120g",
+        "cijena": "5,50",
+        "opis": ""
+    }
+]

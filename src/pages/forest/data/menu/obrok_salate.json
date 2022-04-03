@@ -1,0 +1,37 @@
+[{
+        "naziv": "Cezar salata",
+        "kolicina": "400g",
+        "cijena": "4,90",
+        "opis": "/piletina, zelena salata, slanina, krutoni, šeri paradajz, parmezan, dresing/"
+    },
+    {
+        "naziv": "Forest salata",
+        "kolicina": "400g",
+        "cijena": "5,50",
+        "opis": "/piletina, zelena salata, šeri paradajz, plavi sir, bademi/"
+    },
+    {
+        "naziv": "Salata sa lignjama",
+        "kolicina": "400g",
+        "cijena": "5,50",
+        "opis": "/lignje, zelena salata, krastavac, šeri paradajz, limun/"
+    },
+    {
+        "naziv": "Salata Bisteka",
+        "kolicina": "400g",
+        "cijena": "5,50",
+        "opis": "/biftek, zelena salata, šeri paradajz, paprika, kukuruz, dresing/"
+    },
+    {
+        "naziv": "Tonno salata",
+        "kolicina": "400g",
+        "cijena": "4,90",
+        "opis": "/tunjevina, kukuruz, krastavac, šeri paradajz, pirinač/"
+    },
+    {
+        "naziv": "Integralna salata",
+        "kolicina": "400g",
+        "cijena": "4,50",
+        "opis": "/zelena salata, kukuruz, krastavac, šeri paradajz, integralni pirinač/"
+    }
+]
