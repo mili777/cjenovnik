@@ -2,15 +2,15 @@
     "piva": [{
             "pivo": "Točena",
             "vrste": [{
-                    "naziv": "Stella",
-                    "kolicina": "0,25",
-                    "cijena": "1,50",
+                    "naziv": "Carlsberg",
+                    "kolicina": "0,25l",
+                    "cijena": "1,40",
                     "opis": ""
                 },
                 {
-                    "naziv": "Stella",
+                    "naziv": "Carlsberg",
                     "kolicina": "0,5l",
-                    "cijena": "2,70",
+                    "cijena": "2,60",
                     "opis": ""
                 }
             ]
@@ -18,35 +18,45 @@
         {
             "pivo": "Flaširana",
             "vrste": [{
-                    "naziv": "Nikšićko pivo",
+                    "naziv": "Carlsberg",
+                    "kolicina": "0,25l",
+                    "cijena": "2,20",
+                    "opis": ""
+                },
+                {
+                    "naziv": "Tuborg",
                     "kolicina": "0,33l",
                     "cijena": "2,10",
                     "opis": ""
                 },
                 {
-                    "naziv": "Mammut Prime",
+                    "naziv": "Budweiser",
                     "kolicina": "0,33l",
-                    "cijena": "2,50",
-                    "opis": ""
-                }, {
-                    "naziv": "Bavaria",
-                    "kolicina": "0,25l",
                     "cijena": "2,10",
                     "opis": ""
-                }, {
-                    "naziv": "Becks",
-                    "kolicina": "0,25l",
+                },
+                {
+                    "naziv": "Budweiser tamno",
+                    "kolicina": "0,33l",
                     "cijena": "2,10",
                     "opis": ""
-                }, {
+                },
+                {
+                    "naziv": "Erdinger",
+                    "kolicina": "0,33l",
+                    "cijena": "2,30",
+                    "opis": ""
+                },
+                {
+                    "naziv": "Kronenbourg",
+                    "kolicina": "0,33l",
+                    "cijena": "2,10",
+                    "opis": ""
+                },
+                {
                     "naziv": "Heineken",
                     "kolicina": "0,25l",
                     "cijena": "2,50",
-                    "opis": ""
-                }, {
-                    "naziv": "Tuborg",
-                    "kolicina": "0,33l",
-                    "cijena": "2,10",
                     "opis": ""
                 }
             ]
