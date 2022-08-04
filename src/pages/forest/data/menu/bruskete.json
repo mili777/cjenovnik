@@ -2,24 +2,32 @@
         "naziv": "Bruskete sa pršutom i paradajzom",
         "kolicina": "300g",
         "cijena": "3,50",
-        "opis": "/pršuta, paradajz, masline, sir, pelat/"
+        "opis": "/pršuta, paradajz, masline, sir, pelat/",
+        "en_naziv": "Bruschette with smoked ham and potatoes",
+        "en_opis": "/smoked ham, tomatoes, olives/"
     },
     {
         "naziv": "Bruskete Cezar",
         "kolicina": "300g",
         "cijena": "3,90",
-        "opis": "/piletina, slanina, paradajz šeri, kukuruz, sir, dresing/"
+        "opis": "/piletina, slanina, paradajz šeri, kukuruz, sir, dresing/",
+        "en_naziv": "Bruschette Cesar",
+        "en_opis": "/chicken, bacon, cherry tomatoes, corn, cheese, dressing/"
     },
     {
         "naziv": "Bruskete sa grilovanim povrćem",
         "kolicina": "300g",
         "cijena": "3,50",
-        "opis": "/kukuruz, tikvica, patlidžan, paprika, mocarela/"
+        "opis": "/kukuruz, tikvica, patlidžan, paprika, mocarela/",
+        "en_naziv": "Bruschette with grilled vegetables",
+        "en_opis": "/corn, zucchini, pepper, cherry tomatoes, mozzarella/"
     },
     {
         "naziv": "Bruskete Mediterano",
         "kolicina": "300g",
         "cijena": "3,50",
-        "opis": "/tunjevina, tikvica, patlidžan, sir, pesto sos/"
+        "opis": "/tunjevina, tikvica, patlidžan, sir, pesto sos/",
+        "en_naziv": "Bruskete Mediterano",
+        "en_opis": "/tuna, zucchini, cheese, pesto sauce/"
     }
 ]

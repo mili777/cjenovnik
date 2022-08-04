@@ -2,30 +2,40 @@
         "naziv": "Slane palačinke sa šunkom",
         "kolicina": "400g",
         "cijena": "3,50",
-        "opis": "/jaja, brašno, šunka, sir, šampinjoni, kisjeli krastavac, majonez/"
+        "opis": "/jaja, brašno, šunka, sir, šampinjoni, kisjeli krastavac, majonez/",
+        "en_naziv": "Pancakes with ham",
+        "en_opis": "/eggs, ham, cheese, mushrooms, pickles/"
     },
     {
         "naziv": "Slane palačinke sa pršutom",
         "kolicina": "400g",
         "cijena": "3,90",
-        "opis": "/jaja, brašno, pršuta, sir, šampinjoni, kisjeli krastavac, majonez/"
+        "opis": "/jaja, brašno, pršuta, sir, šampinjoni, kisjeli krastavac, majonez/",
+        "en_naziv": "Pancakes with smoked ham",
+        "en_opis": "/eggs, smoked ham, cheese, mushrooms, pickles/"
     },
     {
         "naziv": "Slane palačinke sa povrćem",
         "kolicina": "400g",
         "cijena": "3,50",
-        "opis": "/jaja, brašno, šampinjoni, sir, mix povrća/"
+        "opis": "/jaja, brašno, šampinjoni, sir, mix povrća/",
+        "en_naziv": "Pancakes with vegetables",
+        "en_opis": "/eggs, mix vegetables, mushrooms/"
     },
     {
         "naziv": "Slatke palačinke klasik",
         "kolicina": "250g",
         "cijena": "2,40",
-        "opis": "/euro krem, plazma/"
+        "opis": "/euro krem, plazma/",
+        "en_naziv": "Sweet pancakes",
+        "en_opis": "/cream, plasma/"
     },
     {
         "naziv": "NUTELLA slatke palačinke",
         "kolicina": "300g",
         "cijena": "3,20",
-        "opis": "/jaja, brašno, nutella, banana, plazma, čokolada/"
+        "opis": "/jaja, brašno, nutella, banana, plazma, čokolada/",
+        "en_naziv": "NUTELLA pancake",
+        "en_opis": "/eggs, nutella, banana, plasma, chocolate/"
     }
 ]

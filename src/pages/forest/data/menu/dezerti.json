@@ -2,12 +2,16 @@
         "naziv": "Čokoladna domaća torta",
         "kolicina": "200g",
         "cijena": "2,50",
-        "opis": ""
+        "opis": "",
+        "en_naziv": "Homemade chocolate cake",
+        "en_opis": ""
     },
     {
         "naziv": "Nugat torta domaća",
         "kolicina": "200g",
         "cijena": "2,50",
-        "opis": ""
+        "opis": "",
+        "en_naziv": "Homemade nugat cake",
+        "en_opis": ""
     }
 ]

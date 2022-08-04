@@ -2,36 +2,48 @@
         "naziv": "Cezar salata",
         "kolicina": "400g",
         "cijena": "4,90",
-        "opis": "/piletina, zelena salata, slanina, krutoni, šeri paradajz, parmezan, dresing/"
+        "opis": "/piletina, zelena salata, slanina, krutoni, šeri paradajz, parmezan, dresing/",
+        "en_naziv": "Cesar salad",
+        "en_opis": "/chicken, bacon, lettuce, feta cheese, cherry tomatoes, dressing/"
     },
     {
         "naziv": "Forest salata",
         "kolicina": "400g",
         "cijena": "5,50",
-        "opis": "/piletina, zelena salata, šeri paradajz, plavi sir, bademi/"
+        "opis": "/piletina, zelena salata, šeri paradajz, plavi sir, bademi/",
+        "en_naziv": "Forest salad",
+        "en_opis": "/chicken, letucce, blue cheese, almonds, dressing/"
     },
     {
         "naziv": "Salata sa lignjama",
         "kolicina": "400g",
         "cijena": "5,50",
-        "opis": "/lignje, zelena salata, krastavac, šeri paradajz, limun/"
+        "opis": "/lignje, zelena salata, krastavac, šeri paradajz, limun/",
+        "en_naziv": "Salad with sqiud",
+        "en_opis": "/squid, letucce, cucumber, cherry tomatoes, lemon/"
     },
     {
         "naziv": "Salata Bisteka",
         "kolicina": "400g",
         "cijena": "5,50",
-        "opis": "/biftek, zelena salata, šeri paradajz, paprika, kukuruz, dresing/"
+        "opis": "/biftek, zelena salata, šeri paradajz, paprika, kukuruz, dresing/",
+        "en_naziv": "Salad Bistecca",
+        "en_opis": "/steak, lettuce, peppers, corn, cherry tomatoes, dressing/"
     },
     {
         "naziv": "Tonno salata",
         "kolicina": "400g",
         "cijena": "4,90",
-        "opis": "/tunjevina, kukuruz, krastavac, šeri paradajz, pirinač/"
+        "opis": "/tunjevina, kukuruz, krastavac, šeri paradajz, pirinač/",
+        "en_naziv": "Tonno salad",
+        "en_opis": "/tuna, rice, cucumber, cherry tomatoes, corn/"
     },
     {
         "naziv": "Integralna salata",
         "kolicina": "400g",
         "cijena": "4,50",
-        "opis": "/zelena salata, kukuruz, krastavac, šeri paradajz, integralni pirinač/"
+        "opis": "/zelena salata, kukuruz, krastavac, šeri paradajz, integralni pirinač/",
+        "en_naziv": "Integral salad",
+        "en_opis": "/integral rice, cherry tomatoes, cucumber, letucce/"
     }
 ]

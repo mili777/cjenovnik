@@ -2,66 +2,88 @@
         "naziv": "Bolonjeze",
         "kolicina": "300g",
         "cijena": "4,50",
-        "opis": "/tjestenina, mljeveno meso, pelat/"
+        "opis": "/tjestenina, mljeveno meso, pelat/",
+        "en_naziv": "Bolognese",
+        "en_opis": "/pasta, minced meat, tomatoes/"
     },
     {
         "naziv": "Karbonara",
         "kolicina": "350g",
         "cijena": "4,90",
-        "opis": "/tjestenina, pančeta, parmezan, jaje/"
+        "opis": "/tjestenina, pančeta, parmezan, jaje/",
+        "en_naziv": "Carbonara",
+        "en_opis": "/pasta, bacon, parmesan, eggs/"
     },
     {
         "naziv": "Pasta Forest",
         "kolicina": "350g",
         "cijena": "5,50",
-        "opis": "/tjestenina, piletina, sušeni paradajz, crveni luk, neutralna pavlaka, parmesan/"
+        "opis": "/tjestenina, piletina, sušeni paradajz, crveni luk, neutralna pavlaka, parmesan/",
+        "en_naziv": "Pasta Forest",
+        "en_opis": "/pasta, chicken, dried tomatoes, red onion, neutral sour cream, parmesan/"
     },
     {
         "naziv": "Pasta Bisteka",
         "kolicina": "350g",
         "cijena": "5,90",
-        "opis": "/tjestenina ,biftek, garlic sos, mix povrća/"
+        "opis": "/tjestenina ,biftek, garlic sos, mix povrća/",
+        "en_naziv": "Pasta Bistecca",
+        "en_opis": "/pasta, steak, garlic sauce, mix vegetables/"
     },
     {
         "naziv": "Zelene taljatele sa gamborima",
         "kolicina": "350g",
         "cijena": "5,90",
-        "opis": "/tjestenina, gambori, tikvica, maslac/"
+        "opis": "/tjestenina, gambori, tikvica, maslac/",
+        "en_naziv": "Green Tagliatelle with shrimps",
+        "en_opis": "/tagliatelle, shrimps, zucchini/"
     },
     {
         "naziv": "Taljatele Pomodoro",
         "kolicina": "350g",
         "cijena": "4,90",
-        "opis": "/tjestenina, šeri paradajz, tikvica, pršuta, mocarela, pelat/"
+        "opis": "/tjestenina, šeri paradajz, tikvica, pršuta, mocarela, pelat/",
+        "en_naziv": "Tagliatelle Pomodoro",
+        "en_opis": "/pasta, cherry tomatoes, smoked ham, cheese, zucchini, tomato/"
     },
     {
         "naziv": "Pasta u krem sosu od spanaća",
         "kolicina": "350g",
         "cijena": "4,90",
-        "opis": "/tjestenina, spanać, parmesan, mascarpone/"
+        "opis": "/tjestenina, spanać, parmesan, mascarpone/",
+        "en_naziv": "Pasta in creamy spinach sauce",
+        "en_opis": "/pasta, spinach, parmesan, mascarpone, neutral sour cream/"
     },
     {
         "naziv": "Pasta sa piletinom u kari sosu",
         "kolicina": "350g",
         "cijena": "5,50",
-        "opis": "/tjestenina, piletina, paprika, bijeli luk, neutralna pavlaka, kari/"
+        "opis": "/tjestenina, piletina, paprika, bijeli luk, neutralna pavlaka, kari/",
+        "en_naziv": "Pasta with chicken in curry sauce",
+        "en_opis": "/pasta, chicken, peppers, garlic, neutral sour cream, curry/"
     },
     {
         "naziv": "Pasta sa piletinom i šampinjonima",
         "kolicina": "350g",
         "cijena": "5,50",
-        "opis": "/tjestenina, piletina, šampinjoni, mix povrća, neutralna pavlaka/"
+        "opis": "/tjestenina, piletina, šampinjoni, mix povrća, neutralna pavlaka/",
+        "en_naziv": "Pasta with chicken and mushrooms",
+        "en_opis": "/pasta, chicken, mushrooms, mix vegetables, neutral sour cream/"
     },
     {
         "naziv": "Pasta Primavera",
         "kolicina": "350g",
         "cijena": "4,90",
-        "opis": "/tjestenina, kukuruz, paprika, tikvica, šeri paradajz, pelat/"
+        "opis": "/tjestenina, kukuruz, paprika, tikvica, šeri paradajz, pelat/",
+        "en_naziv": "Pasta Primavera",
+        "en_opis": "/pasta, mix vegetables/"
     },
     {
         "naziv": "Lazanje",
         "kolicina": "350g",
         "cijena": "4,90",
-        "opis": "/lazanje, mljeveno meso, bešamel sos, sir/"
+        "opis": "/lazanje, mljeveno meso, bešamel sos, sir/",
+        "en_naziv": "Lasagna",
+        "en_opis": "/lasagna, minced meat, bechamel sauce, cheese/"
     }
 ]

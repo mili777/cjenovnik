@@ -2,54 +2,72 @@
         "naziv": "Pomfrit",
         "kolicina": "300g",
         "cijena": "1,50",
-        "opis": "/pomfrit/"
+        "opis": "/pomfrit/",
+        "en_naziv": "French fries",
+        "en_opis": "French fries"
     },
     {
         "naziv": "Kuver",
         "kolicina": "200g",
         "cijena": "1,50",
-        "opis": "/brašno, masline, paradajz sos /"
+        "opis": "/brašno, masline, paradajz sos /",
+        "en_naziv": "Kuver",
+        "en_opis": "/flour, olives, tomato sauce/"
     },
     {
         "naziv": "Masline",
         "kolicina": "50g",
         "cijena": "1,20",
-        "opis": ""
+        "opis": "",
+        "en_naziv": "Olives",
+        "en_opis": ""
     },
     {
         "naziv": "Zapečeni aromatizovani hleb",
         "kolicina": "200g",
         "cijena": "1,50",
-        "opis": ""
+        "opis": "",
+        "en_naziv": "Flavored bread",
+        "en_opis": ""
     },
     {
         "naziv": "Kajmak",
         "kolicina": "50g",
         "cijena": "0,50",
-        "opis": ""
+        "opis": "",
+        "en_naziv": "Kajmak",
+        "en_opis": ""
     },
     {
         "naziv": "Nutella",
         "kolicina": "50g",
         "cijena": "0,50",
-        "opis": ""
+        "opis": "",
+        "en_naziv": "Nutella",
+        "en_opis": ""
     },
     {
         "naziv": "Euro krem",
         "kolicina": "50g",
         "cijena": "0,50",
-        "opis": ""
+        "opis": "",
+        "en_naziv": "Euro cream",
+        "en_opis": ""
     },
     {
         "naziv": "Med",
         "kolicina": "50g",
         "cijena": "0,50",
-        "opis": ""
+        "opis": "",
+        "en_naziv": "Honey",
+        "en_opis": ""
     },
     {
         "naziv": "Domaći džem",
         "kolicina": "50g",
         "cijena": "0,50",
-        "opis": ""
+        "opis": "",
+        "en_naziv": "Jam",
+        "en_opis": ""
     }
 ]

@@ -2,24 +2,32 @@
         "naziv": "Montenegro meza",
         "kolicina": "500g",
         "cijena": "7,90",
-        "opis": "/pršuta, govedina, pančeta, domaći sir, masline/"
+        "opis": "/pršuta, govedina, pančeta, domaći sir, masline/",
+        "en_naziv": "Montenegro meza",
+        "en_opis": "/smoked ham, homemade cheese, bacon, olives, aromatic bread/"
     },
     {
         "naziv": "Forest meza",
         "kolicina": "500g",
         "cijena": "9,00",
-        "opis": "/pršuta, govedina, kobasica, grana padano, masline/"
+        "opis": "/pršuta, govedina, kobasica, grana padano, masline/",
+        "en_naziv": "Forest meza",
+        "en_opis": "/smoked ham, sausages, grana padano, olives, aromatic bread/"
     },
     {
         "naziv": "Mix crnogorskih sireva",
         "kolicina": "250g",
         "cijena": "5,50",
-        "opis": ""
+        "opis": "",
+        "en_naziv": "Mix crnogorskih sireva",
+        "en_opis": ""
     },
     {
         "naziv": "Grana padano",
         "kolicina": "120g",
         "cijena": "5,50",
-        "opis": ""
+        "opis": "",
+        "en_naziv": "Grana padano",
+        "en_opis": ""
     }
 ]

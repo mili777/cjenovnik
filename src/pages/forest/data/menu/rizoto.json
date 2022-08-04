@@ -2,18 +2,24 @@
         "naziv": "Rižoto sa piletinom u kari sosu",
         "kolicina": "400g",
         "cijena": "4,90",
-        "opis": "/pirinač arborio, piletina, šampinjoni, kari/"
+        "opis": "/pirinač arborio, piletina, šampinjoni, kari/",
+        "en_naziv": "Risotto with chicken in curry sauce",
+        "en_opis": "/rice arborio, chicken, mushrooms, curry/"
     },
     {
         "naziv": "Rižoto sa povrćem",
         "kolicina": "400g",
         "cijena": "4,50",
-        "opis": "/pirinač arborio, paprika, šampinjoni, kukuruz, luk, mrkva, maslac/"
+        "opis": "/pirinač arborio, paprika, šampinjoni, kukuruz, luk, mrkva, maslac/",
+        "en_naziv": "Risotto with vegetables",
+        "en_opis": "/rice arborio, mix vegetables/"
     },
     {
         "naziv": "Crni rižoto sa gamborima",
         "kolicina": "400g",
         "cijena": "5,50",
-        "opis": "/pirinač arborio, gambori, crnilo sipe, maslac, limun/"
+        "opis": "/pirinač arborio, gambori, crnilo sipe, maslac, limun/",
+        "en_naziv": "Black risotto with shrimps",
+        "en_opis": "rice arborio, shrimps, butter, lemon"
     }
 ]

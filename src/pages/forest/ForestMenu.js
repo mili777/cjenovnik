@@ -1,8 +1,9 @@
-import React from 'react'
+import React, { useContext } from 'react'
 import { motion } from 'framer-motion';
 import { Header } from './components/Header';
 import { Sidebar } from './components/Sidebar';
 import { ItemsWrap } from './components/ItemsWrap';
+import UserContext from '../../UserContext';
 
 import dorucak from './data/menu/dorucak.json'
 import bruskete from './data/menu/bruskete.json'
@@ -20,6 +21,7 @@ import prilozi from './data/menu/prilozi.json'
 import dezerti from './data/menu/dezerti.json'
 
 export const ForestMenu = () => {
+  const {lang, setLang} = useContext(UserContext);
 
   document.body.classList.remove('overflow-hidden')
   document.body.classList.add('overflow-scroll')
@@ -34,20 +36,20 @@ export const ForestMenu = () => {
       <Sidebar />
       <Header title={'Meni'} />
       <div className='items-grid'>
-        <ItemsWrap title={'Doručak'} data={dorucak} subHeading={"Služi se do 13:00h"}/>
-        <ItemsWrap title={'Bruskete'} data={bruskete} />
-        <ItemsWrap title={'Palačinke'} data={palacinke} />
-        <ItemsWrap title={'Sendviči'} data={sendvici} />
-        <ItemsWrap title={'Tortilje'} data={tortilje} />
-        <ItemsWrap title={'pice'} data={pice} />
-        <ItemsWrap title={'Predjela'} data={predjela} />
-        <ItemsWrap title={'Paste'} data={paste} />
-        <ItemsWrap title={'Obrok salate'} data={obrok_salate} />
-        <ItemsWrap title={'Rižoto'} data={rizoto} />
-        <ItemsWrap title={'Glavna jela'} data={glavna_jela} />
-        <ItemsWrap title={'Čorbe Supe Potaži'} data={corbe_supe_potazi} />
-        <ItemsWrap title={'Prilozi'} data={prilozi} />
-        <ItemsWrap title={'Dezerti'} data={dezerti} />
+        <ItemsWrap title={'Doručak'} en_title={'Breakfast'} data={dorucak} subHeading={"Služi se do 13:00h"} en_subHeading={'Served until 13:00h'}/>
+        <ItemsWrap title={'Bruskete'} en_title={'Bruschette'} data={bruskete} />
+        <ItemsWrap title={'Palačinke'} en_title={'Pancakes'} data={palacinke} />
+        <ItemsWrap title={'Sendviči'} en_title={'Sandwiches'} data={sendvici} />
+        <ItemsWrap title={'Tortilje'} en_title="Tortillas" data={tortilje} />
+        <ItemsWrap title={'pice'} en_title={'Pizza'} data={pice} />
+        <ItemsWrap title={'Predjela'} en_title={'Appetizers'} data={predjela} />
+        <ItemsWrap title={'Paste'} en_title={'Pasta'} data={paste} />
+        <ItemsWrap title={'Obrok salate'} en_title={'Meal salads'} data={obrok_salate} />
+        <ItemsWrap title={'Rižoto'} en_title={'Risotto'} data={rizoto} />
+        <ItemsWrap title={'Glavna jela'} en_title={'Main meal'} data={glavna_jela} />
+        <ItemsWrap title={'Čorbe Supe Potaži'} en_title={'Soup/Potagge'} data={corbe_supe_potazi} />
+        <ItemsWrap title={'Prilozi'} en_title={'Side dishes'} data={prilozi} />
+        <ItemsWrap title={'Dezerti'} en_title={'Desserts'} data={dezerti} />
       </div>
     </motion.div>
   )

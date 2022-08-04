@@ -2,66 +2,88 @@
         "naziv": "Piletina Saltibocca",
         "kolicina": "500g",
         "cijena": "6,50",
-        "opis": "/piletina, pršuta, mocarela, neutralna pavlaka, pečena paprika, krompir pod korom/"
+        "opis": "/piletina, pršuta, mocarela, neutralna pavlaka, pečena paprika, krompir pod korom/",
+        "en_naziv": "Chicken Saltibocca",
+        "en_opis": "/chicken, smoked ham, mocarela, neutral sour cream, pepper, baked potatoes/"
     },
     {
         "naziv": "Piletina Toscana",
         "kolicina": "450g",
         "cijena": "6,50",
-        "opis": "/piletina, paprika, spanać, sir, krompir, puter sos/"
+        "opis": "/piletina, paprika, spanać, sir, krompir, puter sos/",
+        "en_naziv": "Chicken Toscana",
+        "en_opis": "/chicken, peppers, cheese, sour cream, baked potatoes/"
     },
     {
         "naziv": "Piletina u sosu od kikirikija",
         "kolicina": "450g",
         "cijena": "6,20",
-        "opis": "/piletina, pršuta, sir, kikiriki puter, neutralna pavlaka, krompir/"
+        "opis": "/piletina, pršuta, sir, kikiriki puter, neutralna pavlaka, krompir/",
+        "en_naziv": "Chicken in peanut sauce",
+        "en_opis": "/chicken, bacon, smoked ham, peanut butter, neutral sour cream, baked potatoes/"
     },
     {
         "naziv": "Dženet piletina",
         "kolicina": "500g",
         "cijena": "6,90",
-        "opis": "/piletina, šunka, sir, preliv od šampinjona, krompir/"
+        "opis": "/piletina, šunka, sir, preliv od šampinjona, krompir/",
+        "en_naziv": "Janet chicken",
+        "en_opis": "/chicken, ham, cheese, mushrooms, baked potatoes/"
     },
     {
         "naziv": "Piletina na italijanski način",
         "kolicina": "500g",
         "cijena": "6,50",
-        "opis": "/piletina, mocarela, gorgonzola sos, povrće/"
+        "opis": "/piletina, mocarela, gorgonzola sos, povrće/",
+        "en_naziv": "Italian chicken",
+        "en_opis": "/chicken, cheese, blue cheese, mix vegetables/"
     },
     {
         "naziv": "Pohovani pileći štapići",
         "kolicina": "400g",
         "cijena": "4,90",
-        "opis": "/piletina, prezla, pomfrit, tartar sos/"
+        "opis": "/piletina, prezla, pomfrit, tartar sos/",
+        "en_naziv": "Fried chicken",
+        "en_opis": "/chicken, French fries, sauce/"
     },
     {
         "naziv": "Pileći rolovani ražnjići",
         "kolicina": "550g",
         "cijena": "5,90",
-        "opis": "/piletina, slanina, krompir pod korom/"
+        "opis": "/piletina, slanina, krompir pod korom/",
+        "en_naziv": "Chicken rolled kebabs",
+        "en_opis": "/chicken, bacon, baked potatoes/"
     },
     {
         "naziv": "Piletina u gorgonzola sosu",
         "kolicina": "500g",
         "cijena": "6,50",
-        "opis": "/piletina, gorgonzola sir, neutralna pavlaka, krompir/"
+        "opis": "/piletina, gorgonzola sir, neutralna pavlaka, krompir/",
+        "en_naziv": "Chicken in gorgonzola sauce",
+        "en_opis": "/chicken, gorgonzola, sour cream, baked potatoes/"
     },
     {
         "naziv": "Ćevapi od mesa",
         "kolicina": "500g",
         "cijena": "5,50",
-        "opis": "/juneće meso 50%, teleće meso 50%, pomfrit/"
+        "opis": "/juneće meso 50%, teleće meso 50%, pomfrit/",
+        "en_naziv": "Meat kebabs",
+        "en_opis": "/minced meat, french fries/"
     },
     {
         "naziv": "Gurmanska pljeskavica",
         "kolicina": "500g",
         "cijena": "5,50",
-        "opis": "/juneće meso 50%, teleće meso 50%, pomfrit/"
+        "opis": "/juneće meso 50%, teleće meso 50%, pomfrit/",
+        "en_naziv": "Gourmet burger",
+        "en_opis": "/minced meat, cheese, bacon, french fries/"
     },
     {
         "naziv": "Biftek",
         "kolicina": "500g",
         "cijena": "13,00",
-        "opis": "/biftek, mix povrća, integralni pirinač, puter sos/"
+        "opis": "/biftek, mix povrća, integralni pirinač, puter sos/",
+        "en_naziv": "Steak",
+        "en_opis": "/beef steak, mix vegetables, arborio rice, butter sauce/"
     }
 ]

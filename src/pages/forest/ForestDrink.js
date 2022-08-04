@@ -1,10 +1,9 @@
-import React from 'react'
+import React, { useContext } from 'react'
 import { motion } from 'framer-motion';
 import { Header } from './components/Header';
 import { Sidebar } from './components/Sidebar';
 import { ItemsWrap } from './components/ItemsWrap';
 import { ItemsWrapNested } from './components/ItemsWrapNested';
-
 
 import topli_napici from './data/drink/topli_napici.json'
 import vode from './data/drink/vode.json'
@@ -23,9 +22,10 @@ import rum from './data/drink/rum.json'
 import aperativi_likeri_vermuti from './data/drink/aperativi_likeri_vermuti.json'
 import konjaci from './data/drink/konjaci.json'
 import vinska_karta from './data/drink/vinska_karta.json'
-
+import UserContext from '../../UserContext';
 
 export const ForestDrink = () => {
+  const {lang, setLang} = useContext(UserContext);
 
   document.body.classList.remove('overflow-hidden')
   document.body.classList.add('overflow-scroll')
