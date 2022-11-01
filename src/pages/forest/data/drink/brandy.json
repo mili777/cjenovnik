@@ -1,25 +1,33 @@
 [{
         "naziv": "Metaxa 7 stars",
         "kolicina": "0,03l",
-        "cijena": "1,90",
-        "opis": ""
+        "cijena": "2,00",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Vinjak Rubin",
         "kolicina": "0,03l",
-        "cijena": "1,40",
-        "opis": ""
+        "cijena": "1,60",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Stock 84",
         "kolicina": "0,03l",
-        "cijena": "1,60",
-        "opis": ""
+        "cijena": "1,80",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Soko vinjak V.S.O.P.",
         "kolicina": "0,03l",
-        "cijena": "2,20",
-        "opis": ""
+        "cijena": "2,50",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     }
 ]

@@ -10,7 +10,7 @@ export const Items = ({ data }) => {
                     <div className="item" key={item.naziv}>
                         <div className="item-top">
                             <div className="item-top-title">
-                                {lang === "ME" ? (<p>{item.naziv}</p>) : <p>{item.en_naziv}</p>}
+                                {lang === "ME" ? (<p>{item.naziv}</p>) : (item.en_naziv === "" ? (<p>{item.naziv}</p>) : (<p>{item.en_naziv}</p>))}
                                 <span className="item-top-quantity">{item.kolicina}</span>
                             </div>
                             <div className="item-top-price">
@@ -18,7 +18,7 @@ export const Items = ({ data }) => {
                             </div>
                         </div>
                         { item.opis === "" ?  null : <div className="item-bottom">
-                            {lang === "ME" ? (<p>{item.opis}</p>) : <p>{item.en_opis}</p>}
+                            {lang === "ME" ? (<p>{item.opis}</p>) : (item.en_opis === "" ? (<p>{item.opis}</p>) : (<p>{item.en_opis}</p>))}
                         </div> }
                         
                     </div>

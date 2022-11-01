@@ -1,31 +1,25 @@
 [{
         "naziv": "Limunada",
         "kolicina": "0,20l",
-        "cijena": "1,50",
-        "opis": ""
+        "cijena": "1,70",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Cijeđena pomorandža",
         "kolicina": "0,20l",
-        "cijena": "2,00",
-        "opis": ""
+        "cijena": "2,30",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Mix cijeđenog voća i povrća",
         "kolicina": "0,20l",
-        "cijena": "2,50",
-        "opis": ""
-    },
-    {
-        "naziv": "Domaći sok od šipka",
-        "kolicina": "0,20l",
-        "cijena": "1,70 ",
-        "opis": ""
-    },
-    {
-        "naziv": "Drenjina bistri sok",
-        "kolicina": "0,25l",
-        "cijena": "2,00",
-        "opis": ""
+        "cijena": "2,80",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     }
 ]

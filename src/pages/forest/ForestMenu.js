@@ -34,7 +34,7 @@ export const ForestMenu = () => {
       transition={{ ease: [0.17, 0.67, 0.83, 0.67] }}
     >
       <Sidebar />
-      <Header title={'Meni'} />
+      <Header title={'Meni'} en_title={"Menu"}/>
       <div className='items-grid'>
         <ItemsWrap title={'Doručak'} en_title={'Breakfast'} data={dorucak} subHeading={"Služi se do 13:00h"} en_subHeading={'Served until 13:00h'}/>
         <ItemsWrap title={'Bruskete'} en_title={'Bruschette'} data={bruskete} />

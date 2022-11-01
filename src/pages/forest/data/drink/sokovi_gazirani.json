@@ -1,38 +1,50 @@
 [{
         "naziv": "Coca Cola",
         "kolicina": "0,25l",
-        "cijena": "1,80",
-        "opis": ""
+        "cijena": "1,90",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Coca Cola zero",
         "kolicina": "0,25l",
-        "cijena": "1,80",
-        "opis": ""
+        "cijena": "1,90",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Fanta",
         "kolicina": "0,25l",
-        "cijena": "1,80",
-        "opis": ""
+        "cijena": "1,90",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Schweppes bitter lemon",
         "kolicina": "0,25l",
-        "cijena": "1,80",
-        "opis": ""
+        "cijena": "1,90",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Schweppes tonic water",
         "kolicina": "0,25l",
-        "cijena": "1,80",
-        "opis": ""
+        "cijena": "1,90",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Sprite",
         "kolicina": "0,25l",
-        "cijena": "1,80",
-        "opis": ""
+        "cijena": "1,90",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     }
 
 ]

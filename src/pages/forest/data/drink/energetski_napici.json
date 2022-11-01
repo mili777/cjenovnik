@@ -1,13 +1,17 @@
 [{
         "naziv": "Red bull",
         "kolicina": "0,25l",
-        "cijena": "3,00",
-        "opis": ""
+        "cijena": "3,50",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Ultra",
         "kolicina": "0,25l",
-        "cijena": "2,00",
-        "opis": ""
+        "cijena": "2,50",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     }
 ]

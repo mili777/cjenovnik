@@ -1,61 +1,81 @@
 [{
         "naziv": "Gorki list",
         "kolicina": "0,03l",
-        "cijena": "1,60",
-        "opis": ""
+        "cijena": "1,90",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Amaro montenegro",
         "kolicina": "0,03l",
-        "cijena": "1,90",
-        "opis": ""
+        "cijena": "2,20",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Jagermaister",
         "kolicina": "0,03l",
-        "cijena": "1,90",
-        "opis": ""
+        "cijena": "2,20",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Baileys",
         "kolicina": "0,03l",
-        "cijena": "1,90",
-        "opis": ""
+        "cijena": "2,20",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Carolans",
         "kolicina": "0,03l",
-        "cijena": "1,90",
-        "opis": ""
+        "cijena": "2,20",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Campari",
         "kolicina": "0,03l",
-        "cijena": "1,90",
-        "opis": ""
+        "cijena": "2,20",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Martini Bianco",
         "kolicina": "0,03l",
         "cijena": "2,20",
-        "opis": ""
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Martini rosso",
         "kolicina": "0,03l",
         "cijena": "2,20",
-        "opis": ""
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Cinzano Bianco",
         "kolicina": "0,03l",
         "cijena": "2,20",
-        "opis": ""
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Cinzano rosso",
         "kolicina": "0,03l",
         "cijena": "2,20",
-        "opis": ""
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     }
 ]

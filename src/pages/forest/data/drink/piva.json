@@ -4,14 +4,18 @@
             "vrste": [{
                     "naziv": "Carlsberg",
                     "kolicina": "0,25l",
-                    "cijena": "1,40",
-                    "opis": ""
+                    "cijena": "1,60",
+                    "opis": "",
+                    "en_naziv": "",
+                    "en_opis": ""
                 },
                 {
                     "naziv": "Carlsberg",
                     "kolicina": "0,5l",
-                    "cijena": "2,60",
-                    "opis": ""
+                    "cijena": "2,80",
+                    "opis": "",
+                    "en_naziv": "",
+                    "en_opis": ""
                 }
             ]
         },
@@ -21,43 +25,57 @@
                     "naziv": "Carlsberg",
                     "kolicina": "0,25l",
                     "cijena": "2,20",
-                    "opis": ""
+                    "opis": "",
+                    "en_naziv": "",
+                    "en_opis": ""
                 },
                 {
                     "naziv": "Tuborg",
                     "kolicina": "0,33l",
-                    "cijena": "2,10",
-                    "opis": ""
+                    "cijena": "2,20",
+                    "opis": "",
+                    "en_naziv": "",
+                    "en_opis": ""
                 },
                 {
                     "naziv": "Budweiser",
                     "kolicina": "0,33l",
-                    "cijena": "2,10",
-                    "opis": ""
+                    "cijena": "2,20",
+                    "opis": "",
+                    "en_naziv": "",
+                    "en_opis": ""
                 },
                 {
                     "naziv": "Budweiser tamno",
                     "kolicina": "0,33l",
-                    "cijena": "2,10",
-                    "opis": ""
+                    "cijena": "2,20",
+                    "opis": "",
+                    "en_naziv": "",
+                    "en_opis": ""
                 },
                 {
                     "naziv": "Erdinger",
                     "kolicina": "0,33l",
                     "cijena": "2,30",
-                    "opis": ""
+                    "opis": "",
+                    "en_naziv": "",
+                    "en_opis": ""
                 },
                 {
                     "naziv": "Kronenbourg",
                     "kolicina": "0,33l",
-                    "cijena": "2,10",
-                    "opis": ""
+                    "cijena": "2,20",
+                    "opis": "",
+                    "en_naziv": "",
+                    "en_opis": ""
                 },
                 {
                     "naziv": "Heineken",
                     "kolicina": "0,25l",
-                    "cijena": "2,50",
-                    "opis": ""
+                    "cijena": "2,90",
+                    "opis": "",
+                    "en_naziv": "",
+                    "en_opis": ""
                 }
             ]
         },
@@ -66,8 +84,10 @@
             "vrste": [{
                 "naziv": "Somersby",
                 "kolicina": "0,33l",
-                "cijena": "2,50",
-                "opis": "/jabuka, kruška, borovnica, lubenica/"
+                "cijena": "2,90",
+                "opis": "/jabuka, kruška, borovnica, lubenica/",
+                "en_naziv": "",
+                "en_opis": ""
             }]
         }
     ]

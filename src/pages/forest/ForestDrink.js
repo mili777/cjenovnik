@@ -38,25 +38,25 @@ export const ForestDrink = () => {
       transition={{ ease: [0.17, 0.67, 0.83, 0.67] }}
     >
       <Sidebar />
-      <Header title={'Karta pića'} />
+      <Header title={'Karta pića'} en_title={"Drinks"}/>
       <div className='items-grid'>
-        <ItemsWrap title={'Topli napici'} data={topli_napici} />
-        <ItemsWrapNested title={'Vode'} data={vode} request={'vode'} query={'voda'} />
-        <ItemsWrap title={'Sokovi negazirani'} data={sokovi_negazirani} />
-        <ItemsWrap title={'Sokovi gazirani'} data={sokovi_gazirani} />
-        <ItemsWrap title={'Sokovi prirodni'} data={sokovi_prirodni} />
-        <ItemsWrap title={'Energetski napici'} data={energetski_napici} />
-        <ItemsWrapNested title={'Piva'} data={piva} request={'piva'} query={'pivo'} />
-        <ItemsWrap title={'Rakije'} data={rakije} />
-        <ItemsWrap title={'White spirits'} data={white_spirits} />
-        <ItemsWrap title={'Blended whiskey'} data={blended_whiskey} />
-        <ItemsWrap title={'Single malt whiskey'} data={single_malt_whiskey} />
-        <ItemsWrap title={'Bourbon'} data={bourbon} />
-        <ItemsWrap title={'Brandy'} data={brandy} />
-        <ItemsWrap title={'Rum'} data={rum} />
-        <ItemsWrap title={'Aperativi, likeri, vermuti'} data={aperativi_likeri_vermuti} />
-        <ItemsWrap title={'Konjaci'} data={konjaci} />
-        <ItemsWrapNested title={'Vinska karta'} data={vinska_karta} request={'vina'} query={'vino'} />
+        <ItemsWrap title={'Topli napici'} en_title={'Topli napici'} data={topli_napici} />
+        <ItemsWrapNested title={'Vode'} en_title={'Vode'} data={vode} request={'vode'} query={'voda'} />
+        <ItemsWrap title={'Sokovi negazirani'} en_title={'Sokovi negazirani'} data={sokovi_negazirani} />
+        <ItemsWrap title={'Sokovi gazirani'} en_title={'Sokovi gazirani'} data={sokovi_gazirani} />
+        <ItemsWrap title={'Sokovi prirodni'} en_title={'Sokovi prirodni'} data={sokovi_prirodni} />
+        <ItemsWrap title={'Energetski napici'} en_title={'Energetski napici'} data={energetski_napici} />
+        <ItemsWrapNested title={'Piva'} en_title={'Piva'} data={piva} request={'piva'} query={'pivo'} />
+        <ItemsWrap title={'Rakije'} en_title={'Rakije'} data={rakije} />
+        <ItemsWrap title={'White spirits'} en_title={'White spirits'} data={white_spirits} />
+        <ItemsWrap title={'Blended whiskey'} en_title={'Blended whiskey'} data={blended_whiskey} />
+        <ItemsWrap title={'Single malt whiskey'} en_title={'Single malt whiskey'} data={single_malt_whiskey} />
+        <ItemsWrap title={'Bourbon'} en_title={'Bourbon'} data={bourbon} />
+        <ItemsWrap title={'Brandy'} en_title={'Brandy'} data={brandy} />
+        <ItemsWrap title={'Rum'} en_title={'Rum'} data={rum} />
+        <ItemsWrap title={'Aperativi, likeri, vermuti'} en_title={'Aperativi, likeri, vermuti'} data={aperativi_likeri_vermuti} />
+        <ItemsWrap title={'Konjaci'} en_title={'Konjaci'} data={konjaci} />
+        <ItemsWrapNested title={'Vinska karta'} en_title={'Vinska karta'} data={vinska_karta} request={'vina'} query={'vino'} />
       </div>
     </motion.div>
 

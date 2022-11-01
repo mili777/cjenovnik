@@ -4,14 +4,18 @@
             "vrste": [{
                     "naziv": "Crnogorski CHARDONNAY",
                     "kolicina": "0,75l",
-                    "cijena": "12,00",
-                    "opis": "/chardonnay/"
+                    "cijena": "15,00",
+                    "opis": "/chardonnay/",
+                    "en_naziv": "",
+                    "en_opis": ""
                 },
                 {
                     "naziv": "Crnogorski CHARDONNAY",
                     "kolicina": "0,187l",
-                    "cijena": "3,50",
-                    "opis": "/chardonnay/"
+                    "cijena": "3,90",
+                    "opis": "/chardonnay/",
+                    "en_naziv": "",
+                    "en_opis": ""
                 }
             ]
         },
@@ -20,26 +24,34 @@
             "vrste": [{
                     "naziv": "PRO ANIMA-Chardonnay Sauvignon blanc",
                     "kolicina": "0,75l",
-                    "cijena": "20,00",
-                    "opis": "/chardonnay, sauvignon blanc/"
+                    "cijena": "25,00",
+                    "opis": "/chardonnay, sauvignon blanc/",
+                    "en_naziv": "",
+                    "en_opis": ""
                 },
                 {
                     "naziv": "LUČA",
                     "kolicina": "0,75l",
                     "cijena": "25,00",
-                    "opis": "/chardonnay, pinot blanc, sauvignon blanc/"
+                    "opis": "/chardonnay, pinot blanc, sauvignon blanc/",
+                    "en_naziv": "",
+                    "en_opis": ""
                 },
                 {
                     "naziv": "MALVAZIJA",
                     "kolicina": "0,75l",
                     "cijena": "25,00",
-                    "opis": "/malvazija/"
+                    "opis": "/malvazija/",
+                    "en_naziv": "",
+                    "en_opis": ""
                 },
                 {
                     "naziv": "MALVAZIJA",
                     "kolicina": "0,187l",
-                    "cijena": "3,90",
-                    "opis": "/malvazija/"
+                    "cijena": "4,20",
+                    "opis": "/malvazija/",
+                    "en_naziv": "",
+                    "en_opis": ""
                 }
             ]
         },
@@ -49,19 +61,17 @@
                     "naziv": "Crnogorski VRANAC",
                     "kolicina": "0,75l",
                     "cijena": "12,00",
-                    "opis": "/vranac/"
+                    "opis": "/vranac/",
+                    "en_naziv": "",
+                    "en_opis": ""
                 },
                 {
                     "naziv": "Crnogorski VRANAC",
                     "kolicina": "0,187l",
-                    "cijena": "3,20",
-                    "opis": "/vranac/"
-                },
-                {
-                    "naziv": "Crnogorski MERLOT",
-                    "kolicina": "0,75l",
-                    "cijena": "10,00",
-                    "opis": "/merlot/"
+                    "cijena": "3,90",
+                    "opis": "/vranac/",
+                    "en_naziv": "",
+                    "en_opis": ""
                 }
             ]
         },
@@ -71,19 +81,25 @@
                     "naziv": "VRANAC PRO CORDE",
                     "kolicina": "0,75l",
                     "cijena": "15,00",
-                    "opis": "/vranac/"
+                    "opis": "/vranac/",
+                    "en_naziv": "",
+                    "en_opis": ""
                 },
                 {
                     "naziv": "VRANAC PRO CORDE",
                     "kolicina": "0,187l",
-                    "cijena": "3,90",
-                    "opis": "/vranac/"
+                    "cijena": "4,20",
+                    "opis": "/vranac/",
+                    "en_naziv": "",
+                    "en_opis": ""
                 },
                 {
                     "naziv": "VLADIKA",
                     "kolicina": "0,75l",
                     "cijena": "25,00",
-                    "opis": "/vranac, cabernet sauvignon, merlot/"
+                    "opis": "/vranac, cabernet sauvignon, merlot/",
+                    "en_naziv": "",
+                    "en_opis": ""
                 }
             ]
         },
@@ -92,8 +108,10 @@
             "vrste": [{
                 "naziv": "VRANAC RESERVE",
                 "kolicina": "0,75l",
-                "cijena": "50,00",
-                "opis": "/vranac/"
+                "cijena": "60,00",
+                "opis": "/vranac/",
+                "en_naziv": "",
+                "en_opis": ""
             }]
         },
         {
@@ -101,20 +119,26 @@
             "vrste": [{
                     "naziv": "Crnogorski ROSE",
                     "kolicina": "0,75l",
-                    "cijena": "12,00",
-                    "opis": "/vranac, grenache/"
+                    "cijena": "15,00",
+                    "opis": "/vranac, grenache/",
+                    "en_naziv": "",
+                    "en_opis": ""
                 },
                 {
                     "naziv": "Crnogorski ROSE",
                     "kolicina": "0,187l",
-                    "cijena": "3,50",
-                    "opis": "/vranac, grenache/"
+                    "cijena": "3,90",
+                    "opis": "/vranac, grenache/",
+                    "en_naziv": "",
+                    "en_opis": ""
                 },
                 {
                     "naziv": "REGINA Jelena Savojska",
                     "kolicina": "0,75l",
                     "cijena": "25,00",
-                    "opis": ""
+                    "opis": "",
+                    "en_naziv": "",
+                    "en_opis": ""
                 }
             ]
         },
@@ -124,31 +148,41 @@
                     "naziv": "Moet&Chandon Brut",
                     "kolicina": "0,75l",
                     "cijena": "90,00",
-                    "opis": ""
+                    "opis": "",
+                    "en_naziv": "",
+                    "en_opis": ""
                 },
                 {
                     "naziv": "Martini prosecco",
                     "kolicina": "0,75l",
                     "cijena": "20,00",
-                    "opis": ""
+                    "opis": "",
+                    "en_naziv": "",
+                    "en_opis": ""
                 },
                 {
                     "naziv": "Cinzano Prosecco",
                     "kolicina": "0,75l",
                     "cijena": "20,00",
-                    "opis": ""
+                    "opis": "",
+                    "en_naziv": "",
+                    "en_opis": ""
                 },
                 {
                     "naziv": "Dei Poeti Prosecco Botega",
                     "kolicina": "0,75l",
                     "cijena": "25,00",
-                    "opis": ""
+                    "opis": "",
+                    "en_naziv": "",
+                    "en_opis": ""
                 },
                 {
                     "naziv": "Dei Poeti Prosecco Botega",
                     "kolicina": "0,20l",
-                    "cijena": "5,50",
-                    "opis": ""
+                    "cijena": "6,50",
+                    "opis": "",
+                    "en_naziv": "",
+                    "en_opis": ""
                 }
             ]
         }

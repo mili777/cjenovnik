@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import './css/style.css'
 import { Link } from 'react-router-dom'
 
-import mne_img from '../../img/me.svg'
+import mne_img from '../../img/mne.png'
 import eng_img from '../../img/gb-eng.svg'
 import leafRight from '../../img/forest/leaf-right.svg'
 import leafLeft from '../../img/forest/leaf-left.svg'
@@ -35,9 +35,9 @@ export const ForestMain = () => {
 
 
 
-    const btn_en = <button value="EN" onClick={langHandler}>EN</button>
+    const btn_en = <input className='lang_img' type="image" src={eng_img} value="EN" onClick={langHandler}/>
 
-    const btn_me = <button value="ME" onClick={langHandler}>ME</button>
+    const btn_me = <input className='lang_img' type="image" src={mne_img} value="ME" onClick={langHandler}/>
 
 
     return (

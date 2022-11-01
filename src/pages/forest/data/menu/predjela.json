@@ -1,11 +1,4 @@
-[{
-        "naziv": "Montenegro meza",
-        "kolicina": "500g",
-        "cijena": "7,90",
-        "opis": "/pršuta, govedina, pančeta, domaći sir, masline/",
-        "en_naziv": "Montenegro meza",
-        "en_opis": "/smoked ham, homemade cheese, bacon, olives, aromatic bread/"
-    },
+[
     {
         "naziv": "Forest meza",
         "kolicina": "500g",
@@ -17,7 +10,7 @@
     {
         "naziv": "Mix crnogorskih sireva",
         "kolicina": "250g",
-        "cijena": "5,50",
+        "cijena": "6,50",
         "opis": "",
         "en_naziv": "Mix crnogorskih sireva",
         "en_opis": ""
@@ -25,7 +18,7 @@
     {
         "naziv": "Grana padano",
         "kolicina": "120g",
-        "cijena": "5,50",
+        "cijena": "6,90",
         "opis": "",
         "en_naziv": "Grana padano",
         "en_opis": ""

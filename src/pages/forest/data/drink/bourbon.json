@@ -2,12 +2,16 @@
         "naziv": "Wild Turkey",
         "kolicina": "0,03l",
         "cijena": "2,50",
-        "opis": ""
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Jack Daniels",
         "kolicina": "0,03l",
-        "cijena": "2,90",
-        "opis": ""
+        "cijena": "3,20",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     }
 ]

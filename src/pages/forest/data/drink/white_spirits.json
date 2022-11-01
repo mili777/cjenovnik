@@ -1,31 +1,41 @@
 [{
         "naziv": "Vodka Smirnoff",
         "kolicina": "0,03l",
-        "cijena": "1,80",
-        "opis": ""
+        "cijena": "2,20",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Grey goose Vodka Premium",
         "kolicina": "0,03l",
         "cijena": "4,20",
-        "opis": ""
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Bombay Sapphire Gin",
         "kolicina": "0,03l",
-        "cijena": "2,20",
-        "opis": ""
+        "cijena": "2,50",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Camino Blanco Tequila",
         "kolicina": "0,03l",
-        "cijena": "1,80",
-        "opis": ""
+        "cijena": "2,00",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Camino Gold Tequila",
         "kolicina": "0,03l",
-        "cijena": "1,80",
-        "opis": ""
+        "cijena": "2,00",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     }
 ]

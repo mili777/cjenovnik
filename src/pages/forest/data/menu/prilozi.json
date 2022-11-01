@@ -9,7 +9,7 @@
     {
         "naziv": "Kuver",
         "kolicina": "200g",
-        "cijena": "1,50",
+        "cijena": "2,00",
         "opis": "/brašno, masline, paradajz sos /",
         "en_naziv": "Kuver",
         "en_opis": "/flour, olives, tomato sauce/"
@@ -33,7 +33,7 @@
     {
         "naziv": "Kajmak",
         "kolicina": "50g",
-        "cijena": "0,50",
+        "cijena": "0,70",
         "opis": "",
         "en_naziv": "Kajmak",
         "en_opis": ""
@@ -41,7 +41,7 @@
     {
         "naziv": "Nutella",
         "kolicina": "50g",
-        "cijena": "0,50",
+        "cijena": "0,70",
         "opis": "",
         "en_naziv": "Nutella",
         "en_opis": ""

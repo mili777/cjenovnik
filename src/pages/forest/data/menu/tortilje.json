@@ -1,7 +1,7 @@
 [{
         "naziv": "Tortilja sa piletinom",
         "kolicina": "300g",
-        "cijena": "3,90",
+        "cijena": "4,40",
         "opis": "/tortilja, piletina, sir, paprika, pomfrit, pavlaka, kečap/",
         "en_naziv": "Tortilla with chicken",
         "en_opis": "/tortilla, chicken, cheese, pepper, sour cream, ketchup, french fries/"
@@ -9,7 +9,7 @@
     {
         "naziv": "Tortilja sa piletinom u kari sosu",
         "kolicina": "300g",
-        "cijena": "3,90",
+        "cijena": "4,40",
         "opis": "/tortilje, piletina, sir, kari, pomfrit, kečap, pavlaka/",
         "en_naziv": "Tortilla with chicken in curry sauce",
         "en_opis": "/tortilla, chicken, cheese, curry sauce, french fries/"
@@ -17,7 +17,7 @@
     {
         "naziv": "Tortilja Mexicana",
         "kolicina": "300g",
-        "cijena": "3,90",
+        "cijena": "4,40",
         "opis": "/tortilja, piletina, sir, paprika, pasulj, kukuruz, crni luk, bijeli luk, čili, pelat/",
         "en_naziv": "Tortilla Mexicana",
         "en_opis": "/tortilla, chicken, cheese, pepper, corn, red beans, red onion, chilli, french fries/"
@@ -25,7 +25,7 @@
     {
         "naziv": "Tortilja sa biftekom",
         "kolicina": "300g",
-        "cijena": "4,50",
+        "cijena": "4,90",
         "opis": "/tortilja, biftek, garlic sos, mrkva, kupus, pomfrit/",
         "en_naziv": "Tortilla with steak",
         "en_opis": "/tortilla ,steak, garlic sauce, cabbage, french fries/"

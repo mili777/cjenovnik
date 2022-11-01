@@ -1,7 +1,7 @@
 [{
         "naziv": "Pivska pica",
         "kolicina": "25cm/300gr",
-        "cijena": "2,90",
+        "cijena": "3,90",
         "opis": "/radatz kobasice, sir, pelat/",
         "en_naziv": "Pizza with sausage",
         "en_opis": "/sausages, cheese, tomato, oregano/"
@@ -9,7 +9,7 @@
     {
         "naziv": "Pivska pica",
         "kolicina": "33cm/500gr",
-        "cijena": "4,90",
+        "cijena": "5,90",
         "opis": "/radatz kobasice, sir, pelat/",
         "en_naziv": "Pizza with sausage",
         "en_opis": "/sausages, cheese, tomato, oregano/"
@@ -17,7 +17,7 @@
     {
         "naziv": "Capricciosa",
         "kolicina": "25cm/300gr",
-        "cijena": "2,90",
+        "cijena": "3,50",
         "opis": "/šunka, sir, pelat, šampinjoni, origano/",
         "en_naziv": "Capricciosa",
         "en_opis": "/ham, cheese, mushrooms, tomato, oregano/"
@@ -25,7 +25,7 @@
     {
         "naziv": "Capricciosa",
         "kolicina": "33cm/500gr",
-        "cijena": "4,50",
+        "cijena": "5,50",
         "opis": "/šunka, sir, pelat, šampinjoni, origano/",
         "en_naziv": "Capricciosa",
         "en_opis": "/ham, cheese, mushrooms, tomato, oregano/"
@@ -33,7 +33,7 @@
     {
         "naziv": "Prosciutto",
         "kolicina": "25cm/300gr",
-        "cijena": "2,90",
+        "cijena": "3,90",
         "opis": "/pršuta, sir, šampinjoni, pelat, origano/",
         "en_naziv": "Prosciutto",
         "en_opis": "/smoked ham, cheese, mushrooms, tomato, oregano/"
@@ -41,7 +41,7 @@
     {
         "naziv": "Prosciutto",
         "kolicina": "33cm/500gr",
-        "cijena": "4,90",
+        "cijena": "5,90",
         "opis": "/pršuta, sir, šampinjoni, pelat, origano/",
         "en_naziv": "Prosciutto",
         "en_opis": "/smoked ham, cheese, mushrooms, tomato, oregano/"
@@ -49,7 +49,7 @@
     {
         "naziv": "Forest pica",
         "kolicina": "25cm/300g",
-        "cijena": "3,20",
+        "cijena": "4,20",
         "opis": "/pršuta, sir, šampinjoni, paprika, jaje/",
         "en_naziv": "Forest pizza",
         "en_opis": "/smoked ham, cheese, mushrooms, tomato, egg, oregano/"
@@ -57,7 +57,7 @@
     {
         "naziv": "Forest pica",
         "kolicina": "33cm/500gr",
-        "cijena": "5,20",
+        "cijena": "6,50",
         "opis": "/pršuta, sir, šampinjoni, paprika, jaje/",
         "en_naziv": "Forest pizza",
         "en_opis": "/smoked ham, cheese, mushrooms, tomato, egg, oregano/"
@@ -65,7 +65,7 @@
     {
         "naziv": "Margarita",
         "kolicina": "25cm/300gr",
-        "cijena": "2,50",
+        "cijena": "2,90",
         "opis": "/sir, pelat, origano/",
         "en_naziv": "Margarita",
         "en_opis": "/cheese, tomato, oregano/"
@@ -73,7 +73,7 @@
     {
         "naziv": "Margarita",
         "kolicina": "33cm/500gr",
-        "cijena": "3,90",
+        "cijena": "4,50",
         "opis": "/sir, pelat, origano/",
         "en_naziv": "Margarita",
         "en_opis": "/cheese, tomato, oregano/"
@@ -81,7 +81,7 @@
     {
         "naziv": "Quatrrro formaggi",
         "kolicina": "25cm/300gr",
-        "cijena": "2,90",
+        "cijena": "3,90",
         "opis": "/trapist, plavi sir, mocarela, parmesan, pelat/",
         "en_naziv": "Quatrrro formaggi",
         "en_opis": "/cheese, blue cheese, mocarela, parmesan, tomato, oregano/"
@@ -89,7 +89,7 @@
     {
         "naziv": "Quatrrro formaggi",
         "kolicina": "33cm/500gr",
-        "cijena": "4,90",
+        "cijena": "5,90",
         "opis": "/trapist, plavi sir, mocarela, parmesan, pelat/",
         "en_naziv": "Quatrrro formaggi",
         "en_opis": "/cheese, blue cheese, mocarela, parmesan, tomato, oregano/"
@@ -97,7 +97,7 @@
     {
         "naziv": "Diavolo",
         "kolicina": "25cm/300gr",
-        "cijena": "2,90",
+        "cijena": "3,90",
         "opis": "/kulen, sir, feferoni, šampinjoni, pelat, origano/",
         "en_naziv": "Diavolo",
         "en_opis": "/sausage, cheese, pepperoni, mushrooms, tomato, oregano/"
@@ -105,7 +105,7 @@
     {
         "naziv": "Diavolo",
         "kolicina": "33cm/500gr",
-        "cijena": "4,90",
+        "cijena": "5,90",
         "opis": "/kulen, sir, feferoni, šampinjoni, pelat, origano/",
         "en_naziv": "Diavolo",
         "en_opis": "/sausage, cheese, pepperoni, mushrooms, tomato, oregano/"
@@ -113,7 +113,7 @@
     {
         "naziv": "Napolitana",
         "kolicina": "25cm/300gr",
-        "cijena": "2,90",
+        "cijena": "3,90",
         "opis": "/tunjevina, posni sir, paprika, šeri paradajz, pelat/",
         "en_naziv": "Napolitana",
         "en_opis": "/tuna, low-fat cheese, pepper, cherry tomatoes, tomato, oregano/"
@@ -121,7 +121,7 @@
     {
         "naziv": "Napolitana",
         "kolicina": "33cm/500gr",
-        "cijena": "4,90",
+        "cijena": "5,90",
         "opis": "/tunjevina, posni sir, paprika, šeri paradajz, pelat/",
         "en_naziv": "Napolitana",
         "en_opis": "/tuna, low-fat cheese, pepper, cherry tomatoes, tomato, oregano/"
@@ -129,7 +129,7 @@
     {
         "naziv": "Piroška",
         "kolicina": "25cm/300gr",
-        "cijena": "2,90",
+        "cijena": "3,90",
         "opis": "/šunka, sir, kisjela pavlaka, šampinjoni, pelat/",
         "en_naziv": "Piroska",
         "en_opis": "/ham, cheese, sour cream, mushrooms, tomato/"
@@ -137,7 +137,7 @@
     {
         "naziv": "Piroška",
         "kolicina": "33cm/500gr",
-        "cijena": "4,90",
+        "cijena": "5,90",
         "opis": "/šunka, sir, kisjela pavlaka, šampinjoni, pelat/",
         "en_naziv": "Piroska",
         "en_opis": "/ham, cheese, sour cream, mushrooms, tomato/"

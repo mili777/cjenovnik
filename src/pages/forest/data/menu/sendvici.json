@@ -1,14 +1,14 @@
 [{
         "naziv": "Forest sendvič",
         "kolicina": "400g",
-        "cijena": "4,50",
+        "cijena": "4,90",
         "opis": "/domaća čabata, juneće-teleće meso, kajmak, paprika, pomfrit/",
         "en_naziv": "Grilled chicken sandwich",
         "en_opis": "/chicken, sauce, lettuce, french fries/"
     }, {
         "naziv": "Sendvič sa grilovanom piletinom",
         "kolicina": "400g",
-        "cijena": "3,90",
+        "cijena": "4,20",
         "opis": "/domaća čabata, piletina, sos, zelena salata, pomfrit/",
         "en_naziv": "Sandwich with smoked ham and kajmak",
         "en_opis": "/smoked ham, kajmak, pepper, lettuce, french fries/"
@@ -16,7 +16,7 @@
     {
         "naziv": "Sendvič sa pršutom i kajmakom",
         "kolicina": "400g",
-        "cijena": "3,90",
+        "cijena": "4,50",
         "opis": "/domaća čabata, pršuta, kajmak, paprika, zelena salata, pomfrit/",
         "en_naziv": "Steak sandwich in peanut sauce",
         "en_opis": "/beef steak, sauce, peanut sauce, lettuce, french fries"
@@ -32,7 +32,7 @@
     {
         "naziv": "Sendvič sa tunjevinom",
         "kolicina": "400g",
-        "cijena": "3,50",
+        "cijena": "3,90",
         "opis": "/domaća čabata, tunjevina, zelena salata, krastavac svježi,crveni luk, namaz, pomfrit/",
         "en_naziv": "Sandwich with tuna",
         "en_opis": "/tuna, lettuce, cucumber, red onion, sauce, french fries/"
@@ -40,7 +40,7 @@
     {
         "naziv": "Tost sendvič klasik",
         "kolicina": "400g",
-        "cijena": "2,90",
+        "cijena": "3,50",
         "opis": "/tost hleb, šunka, sir, kisjeli krastvac, paprika, zelena salata/",
         "en_naziv": "Toast sandwich",
         "en_opis": "/toast, ham, cheese, lettuce, papper, cucumber, french fries/"
@@ -48,7 +48,7 @@
     {
         "naziv": "Tost sendvič sa puterom",
         "kolicina": "400g",
-        "cijena": "3,90",
+        "cijena": "4,30",
         "opis": "/tost hleb, jaja, pršuta, sir, maslac, pomfrit/",
         "en_naziv": "Toast sandwich on butter",
         "en_opis": "/toast, smoked ham, eggs, butter, cheese, french fries/"
@@ -56,7 +56,7 @@
     {
         "naziv": "Pica sendvič",
         "kolicina": "450g",
-        "cijena": "4,50",
+        "cijena": "4,90",
         "opis": "/Šunka, sir, šampinjoni, pavlaka, pelat/",
         "en_naziv": "Pizza sandwich",
         "en_opis": "/ham, cheese, mushrooms, sour cream, tomato/"

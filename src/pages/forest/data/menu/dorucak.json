@@ -1,15 +1,15 @@
 [{
         "naziv": "Forest doručak",
         "kolicina": "350g",
-        "cijena": "4,30",
-        "opis": "/3 jaja, pančeta, pršuta, kajmak, domaći sir, pomfrit/",
+        "cijena": "4,50",
+        "opis": "/3 jaja, slanina, pršuta, kajmak, domaći sir, pomfrit/",
         "en_naziv" : "Forest breakfast",
         "en_opis" : "/3 eggs,smoked ham,bacon,cheese,cows cream,french fries/"
     },
     {
         "naziv": "Engleski doručak",
         "kolicina": "300g",
-        "cijena": "3,90",
+        "cijena": "4,30",
         "opis": "/2 jaja, viršle, slanina, domaći sir, senf, paradajz, pomfrit/",
         "en_naziv": "English breakfast",
         "en_opis": "/2 eggs,sausages,bacon,cheese.senf,tomato,mustard,french fries/"
@@ -17,7 +17,7 @@
     {
         "naziv": "Montenegro doručak",
         "kolicina": " 350g",
-        "cijena": "3,90",
+        "cijena": "4,30",
         "opis": "/2 jaja, roštiljska kobasica, pršuta, sir, paradajz, senf, pomfrit/",
         "en_naziv": "Montenegro breakfast",
         "en_opis": "/2 eggs,sausages,smoked ham,cheese,tomato, mustard, french fries/"
@@ -25,7 +25,7 @@
     {
         "naziv": "Fritata",
         "kolicina": "350g",
-        "cijena": "3,20",
+        "cijena": "3,50",
         "opis": "/3 jaja, spanać, neutralna pavlaka, feta sir, paradajz šeri/",
         "en_naziv": "Fritata",
         "en_opis": "/ 3 eggs,spinach,neutral sour cream,feta cheese,cherry tomatoes/"
@@ -33,13 +33,13 @@
     {
         "naziv": "Kajgana",
         "kolicina": "300g",
-        "cijena": "3,20",
-        "opis": "/3 jaja, pančeta, praziluk/",
+        "cijena": "3,50",
+        "opis": "/3 jaja, slanina, praziluk/",
         "en_naziv": "Kajgana",
         "en_opis": "/3 eggs, bacon, leek/"
     },
     {
-        "naziv": "Kajgana sa spanaćem",
+        "naziv": "Kajgana sa spanaćem i piletinom",
         "kolicina": "300g",
         "cijena": "4,20",
         "opis": "/3 jaja, spanać, piletina, sir/",
@@ -49,23 +49,15 @@
     {
         "naziv": "Šak-Šuka",
         "kolicina": "400g",
-        "cijena": "3,90",
+        "cijena": "4,20",
         "opis": "/2 jaja, paprika, pančeta, feta sir, paradajz šeri, neutralna pavlaka/",
         "en_naziv": "Sak suka",
         "en_opis": "/2 eggs,pepper,bacon,feta cheese,cherry tomatoes,neutral sour cream/"
     },
     {
-        "naziv": "Jaja na kajmaku",
-        "kolicina": "300g",
-        "cijena": "3,60",
-        "opis": "/4 jaja, kajmak, pančeta/",
-        "en_naziv": "Eggs with cows cream",
-        "en_opis": "/4 eggs, cows cream, bacon/"
-    },
-    {
         "naziv": "Omlet sa šunkom",
         "kolicina": "300g",
-        "cijena": "2,80",
+        "cijena": "3,20",
         "opis": "/3 jaja, šunka, sir/",
         "en_naziv": "Omelette with ham",
         "en_opis": "/3 eggs, ham, cheese/"
@@ -73,7 +65,7 @@
     {
         "naziv": "Omlet sa pršutom",
         "kolicina": "300g",
-        "cijena": "3,20",
+        "cijena": "3,50",
         "opis": "/3 jaja, pršuta, sir/",
         "en_naziv": "Omelette with smoked ham",
         "en_opis": "/3 eggs, smoked ham, cheese/"
@@ -81,7 +73,7 @@
     {
         "naziv": "Omlet sa povrćem",
         "kolicina": "300g",
-        "cijena": "3,20",
+        "cijena": "3,50",
         "opis": "/3 jaja, mix povrća,sir/",
         "en_naziv": "Omelette with vegetables",
         "en_opis": "/3 eggs, cheese, mix vegetables/"
@@ -97,7 +89,7 @@
     {
         "naziv": "Bijeli omlet sa povrćem",
         "kolicina": "300g",
-        "cijena": "3,20",
+        "cijena": "3,50",
         "opis": "/4 bjelanca, mix povrća, sir/",
         "en_naziv": "White omelette with  vegetables",
         "en_opis": "/4 eggs white, cheese, mix vegetables/"
@@ -105,17 +97,9 @@
     {
         "naziv": "Priganice sa prilogom po želji",
         "kolicina": "300g",
-        "cijena": "2,20",
+        "cijena": "2,50",
         "opis": "/brašno, ulje, kvasac/",
         "en_naziv": "Priganice",
         "en_opis": "/Fritters/"
-    },
-    {
-        "naziv": "Domaće kisjelo mlijeko",
-        "kolicina": "0,25l",
-        "cijena": "0,80",
-        "opis": "/mlijeko/",
-        "en_naziv": "Homemade sour milk",
-        "en_opis": "/Milk/"
     }
 ]

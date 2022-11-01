@@ -9,7 +9,7 @@ import UserContext from './UserContext'
 
 function App() {
   const location = useLocation();
-  const [lang, setLang] = useState('EN');
+  const [lang, setLang] = useState('ME');
   return (
     <AnimatePresence exitBeforeEnter initial={true}>
       <UserContext.Provider value={{

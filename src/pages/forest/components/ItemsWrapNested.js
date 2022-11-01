@@ -1,7 +1,7 @@
-import React from 'react'
-
+import React, {useContext} from 'react'
+import UserContext from '../../../UserContext';
 export const ItemsWrapNested = ({ title, data, request, query }) => {
-
+    const {lang, setLang} = useContext(UserContext);
     return (
         <div className='items'>
             <div className="item-title">
@@ -16,7 +16,7 @@ export const ItemsWrapNested = ({ title, data, request, query }) => {
                             <div className="item" key={b.naziv + b.cijena}>
                                 <div className="item-top">
                                     <div className="item-top-title">
-                                        <p>{b.naziv}</p>
+                                        {lang === 'ME' ? (<p>{b.naziv}</p>) : (b.en_naziv  === "" ? (<p>{b.naziv}</p>) : (<p>{b.en_naziv}</p>) )}
                                         <span className="item-top-quantity">{b.kolicina}</span>
                                     </div>
                                     <div className="item-top-price">
@@ -24,7 +24,7 @@ export const ItemsWrapNested = ({ title, data, request, query }) => {
                                     </div>
                                 </div>
                                 {b.opis === "" ? null : <div className="item-bottom">
-                                    <p>{b.opis}</p>
+                                    {lang === 'ME' ? (<p>{b.opis}</p>) : (b.en_opis  === "" ? (<p>{b.opis}</p>) : (<p>{b.opis}</p>) )}
                                 </div>}
                                 
                             </div>

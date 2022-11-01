@@ -84,18 +84,18 @@ a {
     width: 240px;
 }
 
-.lang-selector button {
-    height: 40px;
-    width: 40px;
+.lang_img {
+    height: 35px;
+    width: 35px;
     border-radius: 50px;
     border: none;
+    object-fit: cover;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-tap-highlight-color: transparent;
 }
 
-.lang-selector button img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    border-radius: 50px;
+.lang_img:focus {
+    outline: none !important;
 }
 
 .menu-content {
@@ -405,12 +405,15 @@ a {
         padding-top: 10px;
         padding-bottom: 10px;
     }
+
     .menu-box img {
         height: 80px;
     }
+
     .menu-box h2 {
         font-size: 16px;
     }
+
     .menu-content {
         padding-top: 30px;
     }
@@ -420,6 +423,7 @@ a {
     .menu-content {
         gap: 15px;
     }
+
     .menu-box {
         background-color: #595959;
         width: 120px;
@@ -427,12 +431,15 @@ a {
         padding-top: 10px;
         padding-bottom: 10px;
     }
+
     .menu-box img {
         height: 60px;
     }
+
     .menu-box h2 {
         font-size: 14px;
     }
+
     .menu-content {
         padding-top: 30px;
     }
@@ -442,20 +449,25 @@ a {
     .overflow-hidden {
         overflow: scroll !important;
     }
+
     .overflow-scroll {
         overflow: scroll !important;
     }
+
     .flex-wrapper {
         height: 100%;
     }
+
     .container {
         position: relative;
     }
+
     .footer-wrap {
         padding-top: 30px;
         position: relative;
         padding-bottom: 80px;
     }
+
     #salad,
     #sandwich {
         display: none;

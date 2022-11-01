@@ -2,24 +2,32 @@
         "naziv": "Remy martin VSOP",
         "kolicina": "0,03l",
         "cijena": "5,50",
-        "opis": ""
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Martel VS",
         "kolicina": "0,03l",
         "cijena": "3,90",
-        "opis": ""
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Courvoiser VS",
         "kolicina": "0,03l",
         "cijena": "3,90",
-        "opis": ""
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     },
     {
         "naziv": "Hennessy VS",
         "kolicina": "0,03l",
         "cijena": "3,90",
-        "opis": ""
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
     }
 ]
