@@ -5,26 +5,28 @@ import { Sidebar } from './components/Sidebar';
 import { ItemsWrap } from './components/ItemsWrap';
 import { ItemsWrapNested } from './components/ItemsWrapNested';
 
-import topli_napici from './data/drink/topli_napici.json'
-import vode from './data/drink/vode.json'
-import sokovi_negazirani from './data/drink/sokovi_negazirani.json'
-import sokovi_gazirani from './data/drink/sokovi_gazirani.json'
-import sokovi_prirodni from './data/drink/sokovi_prirodni.json'
-import energetski_napici from './data/drink/energetski_napici.json'
-import piva from './data/drink/piva.json'
-import rakije from './data/drink/rakije.json'
-import white_spirits from './data/drink/white_spirits.json'
-import blended_whiskey from './data/drink/blended_whiskey.json'
-import single_malt_whiskey from './data/drink/single_malt_whiskey.json'
-import bourbon from './data/drink/bourbon.json'
-import brandy from './data/drink/brandy.json'
-import rum from './data/drink/rum.json'
-import aperativi_likeri_vermuti from './data/drink/aperativi_likeri_vermuti.json'
-import konjaci from './data/drink/konjaci.json'
-import vinska_karta from './data/drink/vinska_karta.json'
+import topli_napici from './data/drink/topli_napici-myvers001.json'
+import vode from './data/drink/vode-myvers001.json'
+import sokovi_negazirani from './data/drink/sokovi_negazirani-myvers001.json'
+import sokovi_gazirani from './data/drink/sokovi_gazirani-myvers001.json'
+import sokovi_prirodni from './data/drink/sokovi_prirodni-myvers001.json'
+import energetski_napici from './data/drink/energetski_napici-myvers001.json'
+import piva from './data/drink/piva-myvers001.json'
+import rakije from './data/drink/rakije-myvers001.json'
+import white_spirits from './data/drink/white_spirits-myvers001.json'
+import blended_whiskey from './data/drink/blended_whiskey-myvers001.json'
+import single_malt_whiskey from './data/drink/single_malt_whiskey-myvers001.json'
+import bourbon from './data/drink/bourbon-myvers001.json'
+import brandy from './data/drink/brandy-myvers001.json'
+import rum from './data/drink/rum-myvers001.json'
+import aperativi_likeri_vermuti from './data/drink/aperativi_likeri_vermuti-myvers001.json'
+import konjaci from './data/drink/konjaci-myvers001.json'
+import vinska_karta from './data/drink/vinska_karta-myvers001.json'
 import UserContext from '../../UserContext';
 
 export const ForestDrink = () => {
+  
+
   const {lang, setLang} = useContext(UserContext);
 
   document.body.classList.remove('overflow-hidden')

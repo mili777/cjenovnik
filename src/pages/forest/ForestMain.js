@@ -17,10 +17,13 @@ import UserContext from '../../UserContext';
 
 export const ForestMain = () => {
 
+    
+
     const { lang, setLang } = useContext(UserContext);
 
     const langHandler = (event) => {
         setLang(event.target.value);
+        
     }
 
     useEffect(() => {

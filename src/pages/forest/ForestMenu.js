@@ -5,22 +5,24 @@ import { Sidebar } from './components/Sidebar';
 import { ItemsWrap } from './components/ItemsWrap';
 import UserContext from '../../UserContext';
 
-import dorucak from './data/menu/dorucak.json'
-import bruskete from './data/menu/bruskete.json'
-import palacinke from './data/menu/palacinke.json'
-import sendvici from './data/menu/sendvici.json'
-import tortilje from './data/menu/tortilje.json'
-import pice from './data/menu/pice.json'
-import predjela from './data/menu/predjela.json'
-import paste from './data/menu/paste.json'
-import obrok_salate from './data/menu/obrok_salate.json'
-import rizoto from './data/menu/rizoto.json'
-import glavna_jela from './data/menu/glavna_jela.json'
-import corbe_supe_potazi from './data/menu/corbe_supe_potazi.json'
-import prilozi from './data/menu/prilozi.json'
-import dezerti from './data/menu/dezerti.json'
+import dorucak from './data/menu/dorucak-myvers001.json'
+import bruskete from './data/menu/bruskete-myvers001.json'
+import palacinke from './data/menu/palacinke-myvers001.json'
+import sendvici from './data/menu/sendvici-myvers001.json'
+import tortilje from './data/menu/tortilje-myvers001.json'
+import pice from './data/menu/pice-myvers001.json'
+import predjela from './data/menu/predjela-myvers001.json'
+import paste from './data/menu/paste-myvers001.json'
+import obrok_salate from './data/menu/obrok_salate-myvers001.json'
+import rizoto from './data/menu/rizoto-myvers001.json'
+import glavna_jela from './data/menu/glavna_jela-myvers001.json'
+import corbe_supe_potazi from './data/menu/corbe_supe_potazi-myvers001.json'
+import prilozi from './data/menu/prilozi-myvers001.json'
+import dezerti from './data/menu/dezerti-myvers001.json'
 
 export const ForestMenu = () => {
+
+  
   const {lang, setLang} = useContext(UserContext);
 
   document.body.classList.remove('overflow-hidden')
