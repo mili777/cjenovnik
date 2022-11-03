@@ -22,6 +22,13 @@ import dezerti from './data/menu/dezerti-myvers001.json'
 
 export const ForestMenu = () => {
 
+  const reloadCount = sessionStorage.getItem('reloadCount');
+    if(reloadCount < 2) {
+      sessionStorage.setItem('reloadCount', String(reloadCount + 1));
+      window.location.reload();
+    } else {
+      sessionStorage.removeItem('reloadCount');
+    }
   
   const {lang, setLang} = useContext(UserContext);
 
