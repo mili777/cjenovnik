@@ -23,28 +23,42 @@ import aperativi_likeri_vermuti from './data/drink/aperativi_likeri_vermuti-myve
 import konjaci from './data/drink/konjaci-myvers001.json'
 import vinska_karta from './data/drink/vinska_karta-myvers001.json'
 import UserContext from '../../UserContext';
+import Cookies from 'universal-cookie';
+
+import { useNavigate} from 'react-router-dom';
 
 export const ForestDrink = () => {
+
+  const cookies = new Cookies();
+  const navigate = useNavigate();
+  let counter = cookies.get('counter');
   
-  const reloadCount = sessionStorage.getItem('reloadCount');
-    if(reloadCount < 2) {
-      sessionStorage.setItem('reloadCount', String(reloadCount + 1));
-      window.location.reload();
-    } else {
-      sessionStorage.removeItem('reloadCount');
+  counter++;
+  cookies.set('counter', counter, { path: '/' });
+
+  if(counter >= 5) {
+    navigate('/forestbistrobar', {replace: true});
+  }
+  
+  const reloadUsingLocationHash = () => {
+    window.location.hash = "reload";
     }
 
+    window.onload = reloadUsingLocationHash();
+
   const {lang, setLang} = useContext(UserContext);
+
+  setLang(cookies.get('lang'));
 
   document.body.classList.remove('overflow-hidden')
   document.body.classList.add('overflow-scroll')
 
   return (
     <motion.div
-      initial={{ opacity: 0 }}
+      /*initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       exit={{ opacity: 0 }}
-      transition={{ ease: [0.17, 0.67, 0.83, 0.67] }}
+      transition={{ ease: [0.17, 0.67, 0.83, 0.67] }}*/
     >
       <Sidebar />
       <Header title={'Karta pića'} en_title={"Drinks"}/>

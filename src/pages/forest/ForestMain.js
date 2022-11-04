@@ -12,23 +12,23 @@ import pizza from '../../img/forest/pizza.svg'
 import salad from '../../img/forest/salad.svg'
 import coffe from '../../img/forest/coffe.svg'
 import sandwich from '../../img/forest/sandwich.svg'
-
+import Cookies from 'universal-cookie';
 import UserContext from '../../UserContext';
 
 export const ForestMain = () => {
 
-    const reloadCount = sessionStorage.getItem('reloadCount');
-    if(reloadCount < 2) {
-      sessionStorage.setItem('reloadCount', String(reloadCount + 1));
-      window.location.reload();
-    } else {
-      sessionStorage.removeItem('reloadCount');
-    }
-
     const { lang, setLang } = useContext(UserContext);
+
+    const cookies = new Cookies();
+    cookies.set('counter', 0, { path: '/' });
+
+    if(!cookies.get('lang')) {
+        cookies.set('lang', "ME", { path: '/' });
+    }
 
     const langHandler = (event) => {
         setLang(event.target.value);
+        cookies.set('lang', event.target.value, { path: '/' });
         
     }
 
@@ -42,8 +42,6 @@ export const ForestMain = () => {
     }, []);
 
 
-
-
     const btn_en = <input className='lang_img' type="image" src={eng_img} value="EN" onClick={langHandler}/>
 
     const btn_me = <input className='lang_img' type="image" src={mne_img} value="ME" onClick={langHandler}/>
@@ -51,10 +49,10 @@ export const ForestMain = () => {
 
     return (
         <motion.div
-            initial={{ opacity: 0 }}
+            /*initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
-            transition={{ ease: [0.17, 0.67, 0.83, 0.67] }}
+            transition={{ ease: [0.17, 0.67, 0.83, 0.67] }}*/
         >
             <div className="flex-wrapper">
                 <img src={leafRight} alt="img" id="leaf-right" />

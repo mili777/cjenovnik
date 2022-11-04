@@ -3,31 +3,31 @@
         "kolicina": "400g",
         "cijena": "4,90",
         "opis": "/domaća čabata, juneće-teleće meso, kajmak, paprika, pomfrit/",
-        "en_naziv": "Grilled chicken sandwich",
-        "en_opis": "/chicken, sauce, lettuce, french fries/"
+        "en_naziv": "Forest sandwich",
+        "en_opis": "/beef, kajmak, pepper, french fries/"
     }, {
         "naziv": "Sendvič sa grilovanom piletinom",
         "kolicina": "400g",
         "cijena": "4,20",
         "opis": "/domaća čabata, piletina, sos, zelena salata, pomfrit/",
-        "en_naziv": "Sandwich with smoked ham and kajmak",
-        "en_opis": "/smoked ham, kajmak, pepper, lettuce, french fries/"
+        "en_naziv": "Grilled chicken sandwich",
+        "en_opis": "/chicken, sauce, lettuce, french fries/"
     },
     {
         "naziv": "Sendvič sa pršutom i kajmakom",
         "kolicina": "400g",
         "cijena": "4,50",
         "opis": "/domaća čabata, pršuta, kajmak, paprika, zelena salata, pomfrit/",
-        "en_naziv": "Steak sandwich in peanut sauce",
-        "en_opis": "/beef steak, sauce, peanut sauce, lettuce, french fries"
+        "en_naziv": "Sandwich with smoked ham and kajmak",
+        "en_opis": "/smoked ham, kajmak, pepper, lettuce, french fries/"
     },
     {
         "naziv": "Sendvič sa biftekom u kikiriki sosu",
         "kolicina": "400g",
         "cijena": "4,90",
         "opis": "/domaća čabata, biftek, sos, pomfrit/",
-        "en_naziv": "Forest sandwich",
-        "en_opis": "/beef, kajmak, pepper, french fries/"
+        "en_naziv": "Steak sandwich in peanut sauce",
+        "en_opis": "/beef steak, sauce, peanut sauce, french fries/"
     },
     {
         "naziv": "Sendvič sa tunjevinom",

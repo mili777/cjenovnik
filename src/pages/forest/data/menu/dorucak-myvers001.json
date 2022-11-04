@@ -4,7 +4,7 @@
         "cijena": "4,50",
         "opis": "/3 jaja, slanina, pršuta, kajmak, domaći sir, pomfrit/",
         "en_naziv" : "Forest breakfast",
-        "en_opis" : "/3 eggs,smoked ham,bacon,cheese,cows cream,french fries/"
+        "en_opis" : "/3 eggs, smoked ham, bacon, cheese, cows cream, french fries/"
     },
     {
         "naziv": "Engleski doručak",
@@ -12,7 +12,7 @@
         "cijena": "4,50",
         "opis": "/2 jaja, viršle, slanina, domaći sir, senf, paradajz, pomfrit/",
         "en_naziv": "English breakfast",
-        "en_opis": "/2 eggs,sausages,bacon,cheese.senf,tomato,mustard,french fries/"
+        "en_opis": "/2 eggs, sausages, bacon, cheese, senf, tomato, mustard, french fries/"
     },
     {
         "naziv": "Montenegro doručak",
@@ -20,7 +20,7 @@
         "cijena": "4,50",
         "opis": "/2 jaja, roštiljska kobasica, pršuta, sir, paradajz, senf, pomfrit/",
         "en_naziv": "Montenegro breakfast",
-        "en_opis": "/2 eggs,sausages,smoked ham,cheese,tomato, mustard, french fries/"
+        "en_opis": "/2 eggs, sausages, smoked ham, cheese, tomato, mustard, french fries/"
     },
     {
         "naziv": "Fritata",
@@ -28,7 +28,7 @@
         "cijena": "3,50",
         "opis": "/3 jaja, spanać, neutralna pavlaka, feta sir, paradajz šeri/",
         "en_naziv": "Fritata",
-        "en_opis": "/3 eggs,spinach,neutral sour cream,feta cheese,cherry tomatoes/"
+        "en_opis": "/3 eggs, spinach, neutral sour cream, feta cheese, cherry tomatoes/"
     },
     {
         "naziv": "Kajgana",

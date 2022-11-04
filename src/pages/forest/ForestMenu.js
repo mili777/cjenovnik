@@ -4,6 +4,7 @@ import { Header } from './components/Header';
 import { Sidebar } from './components/Sidebar';
 import { ItemsWrap } from './components/ItemsWrap';
 import UserContext from '../../UserContext';
+import Cookies from 'universal-cookie';
 
 import dorucak from './data/menu/dorucak-myvers001.json'
 import bruskete from './data/menu/bruskete-myvers001.json'
@@ -20,27 +21,39 @@ import corbe_supe_potazi from './data/menu/corbe_supe_potazi-myvers001.json'
 import prilozi from './data/menu/prilozi-myvers001.json'
 import dezerti from './data/menu/dezerti-myvers001.json'
 
-export const ForestMenu = () => {
+import { useNavigate} from 'react-router-dom';
 
-  const reloadCount = sessionStorage.getItem('reloadCount');
-    if(reloadCount < 2) {
-      sessionStorage.setItem('reloadCount', String(reloadCount + 1));
-      window.location.reload();
-    } else {
-      sessionStorage.removeItem('reloadCount');
-    }
+export const ForestMenu = () => {
+  const cookies = new Cookies();
+  const navigate = useNavigate();
+  let counter = cookies.get('counter');
   
+  counter++;
+  cookies.set('counter', counter, { path: '/' });
+
+  if(counter >= 5) {
+    navigate('/forestbistrobar', {replace: true});
+  }
+
+  const reloadUsingLocationHash = () => {
+    window.location.hash = "reload";
+    }
+    window.onload = reloadUsingLocationHash();
+
   const {lang, setLang} = useContext(UserContext);
+
+
+  setLang(cookies.get('lang'));
 
   document.body.classList.remove('overflow-hidden')
   document.body.classList.add('overflow-scroll')
 
   return (
     <motion.div
-      initial={{ opacity: 0 }}
+     /* initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       exit={{ opacity: 0 }}
-      transition={{ ease: [0.17, 0.67, 0.83, 0.67] }}
+      transition={{ ease: [0.17, 0.67, 0.83, 0.67] }}*/
     >
       <Sidebar />
       <Header title={'Meni'} en_title={"Menu"}/>
