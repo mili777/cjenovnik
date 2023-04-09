@@ -7,7 +7,7 @@ export const Items = ({ data }) => {
         <div>
             <div className="item-content">
                 {data.map(item => (
-                    <div className="item" key={item.naziv}>
+                    <div className="item" key={item.naziv + " " + item.cijena}>
                         <div className="item-top">
                             <div className="item-top-title">
                                 {lang === "ME" ? (<p>{item.naziv}</p>) : (item.en_naziv === "" ? (<p>{item.naziv}</p>) : (<p>{item.en_naziv}</p>))}

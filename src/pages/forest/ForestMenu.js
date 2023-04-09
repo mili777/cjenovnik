@@ -30,8 +30,9 @@ export const ForestMenu = () => {
   
   counter++;
   cookies.set('counter', counter, { path: '/' });
-
+  
   if(counter >= 5) {
+    
     navigate('/forestbistrobar', {replace: true});
   }
 
