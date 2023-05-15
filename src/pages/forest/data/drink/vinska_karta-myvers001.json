@@ -52,6 +52,30 @@
                     "opis": "/malvazija/",
                     "en_naziv": "",
                     "en_opis": ""
+                },
+                {
+                    "naziv": "Esporao Bico",
+                    "kolicina": "0,75l",
+                    "cijena": "25,00",
+                    "opis": "",
+                    "en_naziv": "",
+                    "en_opis": ""
+                },
+                {
+                    "naziv": "Monopole Rioja",
+                    "kolicina": "0,75l",
+                    "cijena": "25,00",
+                    "opis": "",
+                    "en_naziv": "",
+                    "en_opis": ""
+                },
+                {
+                    "naziv": "Villa Antinori Bianco",
+                    "kolicina": "0,75l",
+                    "cijena": "30,00",
+                    "opis": "",
+                    "en_naziv": "",
+                    "en_opis": ""
                 }
             ]
         },

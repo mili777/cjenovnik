@@ -3,7 +3,7 @@
     {
         "naziv": "Espresso",
         "kolicina": "0,03l",
-        "cijena": "1,00",
+        "cijena": "1,10",
         "opis": "",
         "en_naziv": "",
         "en_opis": ""
@@ -11,7 +11,7 @@
     {
         "naziv": "Espresso sa mlijekom",
         "kolicina": "0,05l",
-        "cijena": "1,10",
+        "cijena": "1,20",
         "opis": "",
         "en_naziv": "",
         "en_opis": ""
@@ -19,7 +19,7 @@
     {
         "naziv": "Produženi espresso sa mlijekom",
         "kolicina": "0,20l",
-        "cijena": "1,30",
+        "cijena": "1,40",
         "opis": "",
         "en_naziv": "",
         "en_opis": ""
@@ -27,7 +27,7 @@
     {
         "naziv": "Cappuccino",
         "kolicina": "0,20l",
-        "cijena": "1,50",
+        "cijena": "1,60",
         "opis": "",
         "en_naziv": "",
         "en_opis": ""
@@ -35,7 +35,7 @@
     {
         "naziv": "Kafa sa šlagom",
         "kolicina": "0,20l",
-        "cijena": "1,70",
+        "cijena": "1,80",
         "opis": "",
         "en_naziv": "",
         "en_opis": ""
@@ -43,7 +43,7 @@
     {
         "naziv": "Kuvana kafa/Coffe",
         "kolicina": "0,20l",
-        "cijena": "0,80",
+        "cijena": "0,90",
         "opis": "",
         "en_naziv": "",
         "en_opis": ""
@@ -51,7 +51,7 @@
     {
         "naziv": "Ness kafa",
         "kolicina": "0,25l",
-        "cijena": "1,60 ",
+        "cijena": "1,70 ",
         "opis": "",
         "en_naziv": "",
         "en_opis": ""
@@ -59,7 +59,7 @@
     {
         "naziv": "Ness kafa sa šlagom",
         "kolicina": "0,25l",
-        "cijena": "1,80",
+        "cijena": "1,90",
         "opis": "",
         "en_naziv": "",
         "en_opis": ""
@@ -91,7 +91,7 @@
     {
         "naziv": "Čaj /med,limun/",
         "kolicina": "0,30l",
-        "cijena": "1,30",
+        "cijena": "1,40",
         "opis": "",
         "en_naziv": "",
         "en_opis": ""

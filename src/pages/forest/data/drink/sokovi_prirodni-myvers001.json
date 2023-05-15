@@ -1,7 +1,7 @@
 [{
         "naziv": "Limunada",
         "kolicina": "0,20l",
-        "cijena": "1,70",
+        "cijena": "1,80",
         "opis": "",
         "en_naziv": "",
         "en_opis": ""
@@ -9,7 +9,7 @@
     {
         "naziv": "Cijeđena pomorandža",
         "kolicina": "0,20l",
-        "cijena": "2,30",
+        "cijena": "2,40",
         "opis": "",
         "en_naziv": "",
         "en_opis": ""
@@ -17,7 +17,15 @@
     {
         "naziv": "Mix cijeđenog voća i povrća",
         "kolicina": "0,20l",
-        "cijena": "2,80",
+        "cijena": "3,20",
+        "opis": "",
+        "en_naziv": "",
+        "en_opis": ""
+    },
+    {
+        "naziv": "Cijeđeni ananas",
+        "kolicina": "0,20l",
+        "cijena": "4,90",
         "opis": "",
         "en_naziv": "",
         "en_opis": ""
